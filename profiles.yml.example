@@ -1,0 +1,12 @@
+# Copia este archivo a ~/.dbt/profiles.yml y completa tus datos de Databricks
+borgorosso_bi:
+  target: dev
+  outputs:
+    dev:
+      type: databricks
+      host: <tu-workspace>.cloud.databricks.com
+      http_path: /sql/1.0/warehouses/<id-del-sql-warehouse>
+      token: "{{ env_var('DATABRICKS_TOKEN') }}"
+      catalog: workspace
+      schema: borgorosso
+      threads: 4

@@ -1,0 +1,1695 @@
+id_pedido,fecha,hora_pedido,hora_entrega,canal,producto,categoria,cantidad,precio_unitario,metodo_pago,tiene_error
+1,2026-10-19,13:32:00,13:56:00,Teléfono,Pan al Ajo,Entradas,1,8,Tarjeta,No
+2,2026-10-19,14:06:00,14:38:00,Presencial,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+2,2026-10-19,14:06:00,14:38:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+2,2026-10-19,14:06:00,14:38:00,Presencial,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+3,2026-10-19,14:22:00,14:51:00,Presencial,Pan al Ajo,Entradas,3,8,Billetera digital,No
+3,2026-10-19,14:22:00,14:51:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+4,2026-10-19,14:24:00,14:50:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+4,2026-10-19,14:24:00,14:50:00,Teléfono,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+4,2026-10-19,14:24:00,14:50:00,Teléfono,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+4,2026-10-19,14:24:00,14:50:00,Teléfono,Coca Cola,Bebidas,2,5,Tarjeta,No
+5,2026-10-19,15:00:00,15:39:00,WhatsApp,Pan al Ajo,Entradas,1,8,Billetera digital,No
+5,2026-10-19,15:00:00,15:39:00,WhatsApp,Panna Cotta,Postres,2,11,Billetera digital,No
+6,2026-10-19,15:36:00,16:04:00,Teléfono,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+6,2026-10-19,15:36:00,16:04:00,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+7,2026-10-19,15:52:00,16:12:00,Presencial,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+7,2026-10-19,15:52:00,16:12:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+8,2026-10-19,17:46:00,18:18:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+8,2026-10-19,17:46:00,18:18:00,Teléfono,Coca Cola,Bebidas,2,5,Billetera digital,No
+8,2026-10-19,17:46:00,18:18:00,Teléfono,Tiramisú,Postres,1,12,Billetera digital,No
+9,2026-10-19,18:07:00,18:23:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+9,2026-10-19,18:07:00,18:23:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+9,2026-10-19,18:07:00,,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+9,2026-10-19,18:07:00,18:23:00,Presencial,Tiramisú,Postres,2,12,Billetera digital,No
+10,2026-10-19,18:35:00,19:00:00,WhatsApp,Bruschetta,Entradas,1,14,Efectivo,No
+10,2026-10-19,18:35:00,19:00:00,WhatsApp,Coca Cola,Bebidas,1,5,Efectivo,No
+10,2026-10-19,18:35:00,19:00:00,WhatsApp,Tiramisú,Postres,1,12,Efectivo,No
+11,2026-10-19,19:13:00,19:50:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+11,2026-10-19,19:13:00,19:50:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+11,2026-10-19,19:13:00,19:50:00,WhatsApp,Pan al Ajo,Entradas,1,8,Billetera digital,No
+11,2026-10-19,19:13:00,19:50:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,No
+12,2026-10-19,19:37:00,20:15:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+12,2026-10-19,19:37:00,20:15:00,WhatsApp,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+12,2026-10-19,19:37:00,20:15:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+13,2026-10-19,20:06:00,20:32:00,Presencial,Pizza Pepperoni,Pizzas,3,28,Efectivo,Sí
+13,2026-10-19,20:06:00,20:32:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,Sí
+14,2026-10-19,20:31:00,21:09:00,Teléfono,Pizza Cuatro Quesos,Pizzas,2,32,Efectivo,No
+14,2026-10-19,20:31:00,21:09:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+15,2026-10-19,20:31:00,20:55:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,Sí
+15,2026-10-19,20:31:00,20:55:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,Sí
+16,2026-10-19,20:57:00,21:27:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+17,2026-10-19,21:41:00,21:57:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+18,2026-10-19,21:59:00,22:30:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Billetera digital,No
+18,2026-10-19,21:59:00,22:30:00,Teléfono,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+19,2026-10-20,13:00:00,13:25:00,Presencial,Bruschetta,Entradas,1,14,Efectivo,No
+20,2026-10-20,13:18:00,13:41:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+21,2026-10-20,13:39:00,14:09:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+22,2026-10-20,14:10:00,14:42:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,No
+22,2026-10-20,14:10:00,14:42:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+22,2026-10-20,14:10:00,14:42:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+23,2026-10-20,14:43:00,15:18:00,WhatsApp,Coca Cola,Bebidas,1,5,Tarjeta,No
+23,2026-10-20,14:43:00,15:18:00,WhatsApp,Limonada,Bebidas,3,8,Tarjeta,No
+23,2026-10-20,14:43:00,15:18:00,WhatsApp,Tiramisú,Postres,1,12,Tarjeta,No
+24,2026-10-20,15:21:00,15:43:00,WhatsApp,Coca Cola,Bebidas,2,5,Tarjeta,No
+24,2026-10-20,15:21:00,15:43:00,WhatsApp,Inca Kola,Bebidas,1,5,Tarjeta,No
+25,2026-10-20,15:50:00,16:04:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+25,2026-10-20,15:50:00,16:04:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+26,2026-10-20,17:06:00,17:31:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+26,2026-10-20,17:06:00,17:31:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+26,2026-10-20,17:06:00,17:31:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+26,2026-10-20,17:06:00,17:31:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+27,2026-10-20,18:34:00,19:13:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+27,2026-10-20,18:34:00,19:13:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+28,2026-10-20,18:42:00,19:14:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+29,2026-10-20,19:01:00,19:33:00,Teléfono,Pizza Margarita,Pizzas,3,25,Billetera digital,No
+29,2026-10-20,19:01:00,19:33:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+29,2026-10-20,19:01:00,19:33:00,Teléfono,Coca Cola,Bebidas,3,5,Billetera digital,No
+30,2026-10-20,19:35:00,20:20:00,WhatsApp,Tiramisú,Postres,1,12,Billetera digital,No
+30,2026-10-20,19:35:00,20:20:00,WhatsApp,Panna Cotta,Postres,2,11,Billetera digital,No
+31,2026-10-20,19:46:00,20:11:00,Presencial,Inca Kola,Bebidas,2,5,Efectivo,No
+31,2026-10-20,19:46:00,20:11:00,Presencial,Limonada,Bebidas,1,8,Efectivo,No
+32,2026-10-20,20:06:00,20:35:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+32,2026-10-20,20:06:00,,Presencial,Bruschetta,Entradas,2,14,Tarjeta,No
+32,2026-10-20,20:06:00,20:35:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+32,2026-10-20,20:06:00,20:35:00,Presencial,Inca Kola,Bebidas,2,5,Tarjeta,No
+33,2026-10-20,20:54:00,21:22:00,Teléfono,Pizza Margarita,Pizzas,1,25,Efectivo,No
+33,2026-10-20,20:54:00,21:22:00,Teléfono,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+33,2026-10-20,20:54:00,21:22:00,Teléfono,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+34,2026-10-20,20:54:00,21:30:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,Sí
+34,2026-10-20,20:54:00,21:30:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,2,32,Billetera digital,Sí
+35,2026-10-20,21:10:00,21:41:00,Presencial,Fettuccine Alfredo,Pastas,3,32,Efectivo,No
+36,2026-10-20,21:56:00,22:38:00,WhatsApp,Inca Kola,Bebidas,3,5,Billetera digital,No
+36,2026-10-20,21:56:00,22:38:00,WhatsApp,Limonada,Bebidas,3,8,Billetera digital,No
+37,2026-10-21,12:07:00,12:23:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+37,2026-10-21,12:07:00,12:23:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+37,2026-10-21,12:07:00,12:23:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+38,2026-10-21,12:19:00,12:56:00,Teléfono,Inca Kola,Bebidas,1,5,Tarjeta,No
+39,2026-10-21,12:20:00,13:07:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+39,2026-10-21,12:20:00,13:07:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+39,2026-10-21,12:20:00,13:07:00,WhatsApp,Pan al Ajo,Entradas,1,8,Efectivo,No
+40,2026-10-21,12:23:00,12:45:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+40,2026-10-21,12:23:00,12:45:00,Presencial,Bruschetta,Entradas,3,14,Efectivo,No
+41,2026-10-21,13:09:00,13:40:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+41,2026-10-21,13:09:00,13:40:00,WhatsApp,Pan al Ajo,Entradas,1,8,Efectivo,No
+42,2026-10-21,13:20:00,13:49:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+42,2026-10-21,13:20:00,13:49:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+42,2026-10-21,13:20:00,13:49:00,Presencial,Tiramisú,Postres,1,12,Billetera digital,No
+43,2026-10-21,13:33:00,13:55:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Billetera digital,No
+43,2026-10-21,13:33:00,13:55:00,Teléfono,Pan al Ajo,Entradas,2,8,Billetera digital,No
+43,2026-10-21,13:33:00,13:55:00,Teléfono,Bruschetta,Entradas,2,14,Billetera digital,No
+44,2026-10-21,14:07:00,14:28:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+44,2026-10-21,14:07:00,14:28:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+44,2026-10-21,14:07:00,14:28:00,Presencial,Tiramisú,Postres,1,12,Efectivo,No
+45,2026-10-21,14:39:00,,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+46,2026-10-21,14:52:00,15:11:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+47,2026-10-21,14:58:00,15:20:00,WhatsApp,Pizza Pepperoni,Pizzas,3,28,Efectivo,No
+47,2026-10-21,14:58:00,15:20:00,WhatsApp,Coca Cola,Bebidas,3,5,Efectivo,No
+48,2026-10-21,15:35:00,16:07:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+48,2026-10-21,15:35:00,16:07:00,Teléfono,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+49,2026-10-21,15:37:00,16:02:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+49,2026-10-21,15:37:00,16:02:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+49,2026-10-21,15:37:00,16:02:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+50,2026-10-21,15:55:00,16:25:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+50,2026-10-21,15:55:00,16:25:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+50,2026-10-21,15:55:00,16:25:00,Presencial,Lasagna de Carne,Pastas,1,34,Efectivo,No
+51,2026-10-21,16:10:00,16:29:00,Presencial,Inca Kola,Bebidas,3,5,Efectivo,No
+51,2026-10-21,16:10:00,16:29:00,Presencial,Tiramisú,Postres,1,12,Efectivo,No
+52,2026-10-21,16:53:00,17:34:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+53,2026-10-21,16:56:00,17:24:00,Teléfono,Lasagna de Carne,Pastas,1,34,Efectivo,No
+53,2026-10-21,16:56:00,17:24:00,Teléfono,Limonada,Bebidas,2,8,Efectivo,No
+54,2026-10-21,18:15:00,18:41:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+54,2026-10-21,18:15:00,18:41:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+54,2026-10-21,18:15:00,18:41:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+55,2026-10-21,19:49:00,20:36:00,WhatsApp,Inca Kola,Bebidas,3,5,Tarjeta,No
+56,2026-10-21,20:04:00,20:35:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+57,2026-10-22,13:10:00,13:37:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Billetera digital,No
+57,2026-10-22,13:10:00,13:37:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Billetera digital,No
+58,2026-10-22,13:12:00,13:40:00,WhatsApp,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+59,2026-10-22,13:14:00,13:41:00,WhatsApp,Limonada,Bebidas,1,8,Efectivo,No
+59,2026-10-22,13:14:00,13:41:00,WhatsApp,Panna Cotta,Postres,1,11,Efectivo,No
+60,2026-10-22,13:37:00,13:59:00,Presencial,Pizza Margarita,Pizzas,2,25,Billetera digital,No
+60,2026-10-22,13:37:00,13:59:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+61,2026-10-22,13:41:00,13:59:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+61,2026-10-22,13:41:00,13:59:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+61,2026-10-22,13:41:00,13:59:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+61,2026-10-22,13:41:00,13:59:00,Presencial,Tiramisú,Postres,1,12,Efectivo,No
+62,2026-10-22,13:43:00,14:13:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+62,2026-10-22,13:43:00,14:13:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+62,2026-10-22,13:43:00,14:13:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+62,2026-10-22,13:43:00,14:13:00,Presencial,Inca Kola,Bebidas,2,5,Billetera digital,No
+63,2026-10-22,13:53:00,14:42:00,Teléfono,Pizza Margarita,Pizzas,1,25,Tarjeta,Sí
+64,2026-10-22,14:01:00,14:16:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+65,2026-10-22,14:32:00,15:28:00,Teléfono,Coca Cola,Bebidas,1,5,Billetera digital,Sí
+66,2026-10-22,14:34:00,14:58:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+66,2026-10-22,14:34:00,14:58:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+67,2026-10-22,15:03:00,15:25:00,WhatsApp,Coca Cola,Bebidas,1,5,Tarjeta,No
+68,2026-10-22,15:27:00,16:05:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+68,2026-10-22,15:27:00,16:05:00,WhatsApp,Pan al Ajo,Entradas,1,8,Efectivo,No
+68,2026-10-22,15:27:00,16:05:00,WhatsApp,Limonada,Bebidas,1,8,Efectivo,No
+69,2026-10-22,17:01:00,17:48:00,WhatsApp,Fettuccine Alfredo,Pastas,3,32,Billetera digital,Sí
+69,2026-10-22,17:01:00,17:48:00,WhatsApp,Inca Kola,Bebidas,1,5,Billetera digital,Sí
+70,2026-10-22,18:58:00,19:17:00,Presencial,Pizza Margarita,Pizzas,2,25,Billetera digital,No
+70,2026-10-22,18:58:00,19:17:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Billetera digital,No
+70,2026-10-22,18:58:00,19:17:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+70,2026-10-22,18:58:00,19:17:00,Presencial,Tiramisú,Postres,2,12,Billetera digital,No
+71,2026-10-22,19:02:00,19:30:00,Presencial,Limonada,Bebidas,3,8,Efectivo,No
+71,2026-10-22,19:02:00,19:30:00,Presencial,Tiramisú,Postres,2,12,Efectivo,No
+72,2026-10-22,19:09:00,19:39:00,Teléfono,Pizza Margarita,Pizzas,1,25,Efectivo,Sí
+72,2026-10-22,19:09:00,19:39:00,Teléfono,Bruschetta,Entradas,2,14,Efectivo,Sí
+73,2026-10-22,19:31:00,20:02:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Billetera digital,No
+73,2026-10-22,19:31:00,20:02:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+74,2026-10-22,19:43:00,19:59:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+75,2026-10-22,20:05:00,20:42:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,Sí
+75,2026-10-22,20:05:00,20:42:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,Sí
+76,2026-10-22,20:09:00,20:27:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Efectivo,No
+76,2026-10-22,20:09:00,20:27:00,Presencial,Lasagna de Carne,Pastas,2,34,Efectivo,No
+77,2026-10-22,20:16:00,20:35:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+78,2026-10-22,20:44:00,21:19:00,Teléfono,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+78,2026-10-22,20:44:00,21:19:00,Teléfono,Tiramisú,Postres,1,12,Tarjeta,No
+79,2026-10-23,12:00:00,12:31:00,WhatsApp,Pizza Margarita,Pizzas,3,25,Tarjeta,No
+79,2026-10-23,12:00:00,12:31:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+79,2026-10-23,12:00:00,12:31:00,WhatsApp,Pan al Ajo,Entradas,3,8,Tarjeta,No
+80,2026-10-23,12:01:00,12:45:00,Teléfono,Pizza Margarita,Pizzas,1,25,Efectivo,No
+81,2026-10-23,12:37:00,13:11:00,WhatsApp,Pan al Ajo,Entradas,1,8,Tarjeta,No
+81,2026-10-23,12:37:00,13:11:00,WhatsApp,Tiramisú,Postres,1,12,Tarjeta,No
+82,2026-10-23,12:38:00,13:05:00,Teléfono,Bruschetta,Entradas,1,14,Tarjeta,No
+83,2026-10-23,13:14:00,13:46:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+83,2026-10-23,13:14:00,13:46:00,Presencial,Bruschetta,Entradas,2,14,Tarjeta,No
+83,2026-10-23,13:14:00,13:46:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+83,2026-10-23,13:14:00,13:46:00,Presencial,Inca Kola,Bebidas,2,5,Tarjeta,No
+84,2026-10-23,13:16:00,13:54:00,Teléfono,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+84,2026-10-23,13:16:00,13:54:00,Teléfono,Inca Kola,Bebidas,1,5,Billetera digital,No
+84,2026-10-23,13:16:00,13:54:00,Teléfono,Tiramisú,Postres,1,12,Billetera digital,No
+85,2026-10-23,13:29:00,13:54:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,No
+85,2026-10-23,13:29:00,13:54:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+85,2026-10-23,13:29:00,13:54:00,Presencial,Limonada,Bebidas,1,8,Tarjeta,No
+86,2026-10-23,14:07:00,14:36:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+87,2026-10-23,14:09:00,14:26:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+88,2026-10-23,14:15:00,14:50:00,Teléfono,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+88,2026-10-23,14:15:00,14:50:00,Teléfono,Limonada,Bebidas,2,8,Tarjeta,No
+89,2026-10-23,14:17:00,14:34:00,Presencial,Inca Kola,Bebidas,2,5,Tarjeta,No
+90,2026-10-23,14:28:00,14:44:00,Presencial,Lasagna de Carne,Pastas,2,34,Efectivo,No
+91,2026-10-23,14:34:00,15:01:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+92,2026-10-23,14:40:00,15:29:00,Teléfono,Pizza Margarita,Pizzas,1,25,Efectivo,Sí
+92,2026-10-23,14:40:00,15:29:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Efectivo,Sí
+93,2026-10-23,14:47:00,15:04:00,Presencial,Limonada,Bebidas,1,8,Efectivo,No
+94,2026-10-23,15:28:00,16:15:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,3,32,Efectivo,No
+95,2026-10-23,18:15:00,18:31:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+95,2026-10-23,18:15:00,18:31:00,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+96,2026-10-23,18:19:00,18:46:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+96,2026-10-23,18:19:00,18:46:00,WhatsApp,Pan al Ajo,Entradas,1,8,Tarjeta,No
+97,2026-10-23,19:07:00,19:51:00,Teléfono,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+97,2026-10-23,19:07:00,19:51:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+97,2026-10-23,19:07:00,19:51:00,Teléfono,Lasagna de Carne,Pastas,2,34,Efectivo,No
+98,2026-10-23,19:43:00,20:07:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+98,2026-10-23,19:43:00,20:07:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+98,2026-10-23,19:43:00,20:07:00,Presencial,Tiramisú,Postres,1,12,Billetera digital,No
+99,2026-10-23,19:48:00,20:36:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+99,2026-10-23,19:48:00,20:36:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+99,2026-10-23,19:48:00,20:36:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Billetera digital,No
+100,2026-10-23,19:53:00,20:28:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+100,2026-10-23,19:53:00,20:28:00,WhatsApp,Limonada,Bebidas,2,8,Efectivo,No
+101,2026-10-23,20:28:00,20:50:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+101,2026-10-23,20:28:00,20:50:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+101,2026-10-23,20:28:00,20:50:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+101,2026-10-23,20:28:00,20:50:00,Presencial,Tiramisú,Postres,2,12,Efectivo,No
+102,2026-10-23,20:54:00,21:37:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+102,2026-10-23,20:54:00,21:37:00,WhatsApp,Bruschetta,Entradas,1,14,Tarjeta,No
+103,2026-10-23,21:11:00,21:28:00,Presencial,Pan al Ajo,Entradas,2,8,Billetera digital,No
+104,2026-10-23,21:38:00,22:09:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+104,2026-10-23,21:38:00,22:09:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+104,2026-10-23,21:38:00,22:09:00,Presencial,Limonada,Bebidas,1,8,Efectivo,No
+105,2026-10-23,21:38:00,22:00:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+105,2026-10-23,21:38:00,22:00:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+105,2026-10-23,21:38:00,22:00:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+105,2026-10-23,21:38:00,22:00:00,Presencial,Pan al Ajo,Entradas,2,8,Efectivo,No
+106,2026-10-23,21:59:00,22:17:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+106,2026-10-23,21:59:00,22:17:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+107,2026-10-24,12:19:00,12:47:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Efectivo,No
+107,2026-10-24,12:19:00,12:47:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+107,2026-10-24,12:19:00,12:47:00,WhatsApp,Bruschetta,Entradas,3,14,Efectivo,No
+107,2026-10-24,12:19:00,12:47:00,WhatsApp,Panna Cotta,Postres,2,11,Efectivo,No
+108,2026-10-24,13:12:00,13:53:00,WhatsApp,Coca Cola,Bebidas,1,5,Tarjeta,No
+108,2026-10-24,13:12:00,13:53:00,WhatsApp,Tiramisú,Postres,1,12,Tarjeta,No
+109,2026-10-24,13:16:00,13:49:00,WhatsApp,Lasagna de Carne,Pastas,2,34,Efectivo,No
+109,2026-10-24,13:16:00,13:49:00,WhatsApp,Pan al Ajo,Entradas,2,8,Efectivo,No
+109,2026-10-24,13:16:00,13:49:00,WhatsApp,Bruschetta,Entradas,1,14,Efectivo,No
+109,2026-10-24,13:16:00,13:49:00,WhatsApp,Inca Kola,Bebidas,3,5,Efectivo,No
+110,2026-10-24,13:17:00,13:46:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+110,2026-10-24,13:17:00,13:46:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+110,2026-10-24,13:17:00,13:46:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+111,2026-10-24,13:19:00,13:41:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+111,2026-10-24,13:19:00,13:41:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+112,2026-10-24,13:21:00,13:39:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+112,2026-10-24,13:21:00,13:39:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+112,2026-10-24,13:21:00,13:39:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+113,2026-10-24,13:29:00,13:58:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+113,2026-10-24,13:29:00,13:58:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+114,2026-10-24,13:29:00,13:51:00,Presencial,Pizza Cuatro Quesos,Pizzas,3,32,Efectivo,No
+114,2026-10-24,13:29:00,13:51:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+115,2026-10-24,13:35:00,13:57:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+115,2026-10-24,13:35:00,13:57:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+115,2026-10-24,13:35:00,13:57:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+116,2026-10-24,13:43:00,14:17:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+116,2026-10-24,13:43:00,14:17:00,WhatsApp,Coca Cola,Bebidas,2,5,Efectivo,No
+117,2026-10-24,14:04:00,14:22:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+117,2026-10-24,14:04:00,14:22:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+118,2026-10-24,14:12:00,14:31:00,Presencial,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+118,2026-10-24,14:12:00,14:31:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+119,2026-10-24,14:19:00,14:56:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,Sí
+119,2026-10-24,14:19:00,14:56:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,Sí
+119,2026-10-24,14:19:00,14:56:00,Presencial,Pan al Ajo,Entradas,2,8,Billetera digital,Sí
+119,2026-10-24,14:19:00,14:56:00,Presencial,Bruschetta,Entradas,3,14,Billetera digital,Sí
+120,2026-10-24,14:23:00,14:53:00,Presencial,Pizza Margarita,Pizzas,3,25,Efectivo,Sí
+121,2026-10-24,14:42:00,15:00:00,Presencial,Pizza Margarita,Pizzas,3,25,Efectivo,No
+121,2026-10-24,14:42:00,15:00:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+121,2026-10-24,14:42:00,15:00:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+121,2026-10-24,14:42:00,15:00:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+122,2026-10-24,14:44:00,15:10:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+122,2026-10-24,14:44:00,15:10:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+122,2026-10-24,14:44:00,15:10:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+123,2026-10-24,14:50:00,15:29:00,Teléfono,Pizza Margarita,Pizzas,1,25,Efectivo,Sí
+124,2026-10-24,14:56:00,15:12:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+124,2026-10-24,14:56:00,15:12:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+125,2026-10-24,14:59:00,15:41:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Efectivo,Sí
+125,2026-10-24,14:59:00,15:41:00,Teléfono,Inca Kola,Bebidas,1,5,Efectivo,Sí
+125,2026-10-24,14:59:00,15:41:00,Teléfono,Limonada,Bebidas,1,8,Efectivo,Sí
+126,2026-10-24,15:18:00,16:05:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,Sí
+126,2026-10-24,15:18:00,16:05:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Tarjeta,Sí
+126,2026-10-24,15:18:00,16:05:00,WhatsApp,Limonada,Bebidas,2,8,Tarjeta,Sí
+127,2026-10-24,15:58:00,16:29:00,Presencial,Pan al Ajo,Entradas,2,8,Efectivo,No
+128,2026-10-24,15:58:00,16:35:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,2,32,Billetera digital,No
+128,2026-10-24,15:58:00,16:35:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+128,2026-10-24,15:58:00,16:35:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+129,2026-10-24,16:07:00,16:32:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Billetera digital,No
+129,2026-10-24,16:07:00,16:32:00,Teléfono,Inca Kola,Bebidas,1,5,Billetera digital,No
+130,2026-10-24,16:35:00,16:51:00,Presencial,Limonada,Bebidas,2,8,Efectivo,No
+131,2026-10-24,17:43:00,18:17:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+131,2026-10-24,17:43:00,18:17:00,Teléfono,Coca Cola,Bebidas,1,5,Billetera digital,No
+131,2026-10-24,17:43:00,18:17:00,Teléfono,Inca Kola,Bebidas,1,5,Billetera digital,No
+132,2026-10-24,17:50:00,18:24:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,Sí
+132,2026-10-24,17:50:00,18:24:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,Sí
+132,2026-10-24,17:50:00,18:24:00,WhatsApp,Bruschetta,Entradas,1,14,Tarjeta,Sí
+133,2026-10-24,18:18:00,18:40:00,Teléfono,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+133,2026-10-24,18:18:00,18:40:00,Teléfono,Pan al Ajo,Entradas,3,8,Tarjeta,No
+133,2026-10-24,18:18:00,18:40:00,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+134,2026-10-24,18:30:00,19:09:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+134,2026-10-24,18:30:00,19:09:00,Teléfono,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+135,2026-10-24,19:08:00,19:26:00,Presencial,Pan al Ajo,Entradas,2,8,Billetera digital,No
+136,2026-10-24,19:23:00,19:52:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+136,2026-10-24,19:23:00,19:52:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+136,2026-10-24,19:23:00,19:52:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+137,2026-10-24,19:29:00,20:06:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,Sí
+137,2026-10-24,19:29:00,20:06:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Tarjeta,Sí
+138,2026-10-24,19:44:00,20:18:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+138,2026-10-24,19:44:00,20:18:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+139,2026-10-24,20:00:00,20:16:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+139,2026-10-24,20:00:00,20:16:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+139,2026-10-24,20:00:00,20:16:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+139,2026-10-24,20:00:00,20:16:00,Presencial,Inca Kola,Bebidas,3,5,Efectivo,No
+140,2026-10-24,20:04:00,20:50:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+140,2026-10-24,20:04:00,20:50:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+140,2026-10-24,20:04:00,20:50:00,WhatsApp,Inca Kola,Bebidas,1,5,Billetera digital,No
+140,2026-10-24,20:04:00,20:50:00,WhatsApp,Limonada,Bebidas,1,8,Billetera digital,No
+141,2026-10-24,20:04:00,20:39:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+142,2026-10-24,20:08:00,20:28:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+142,2026-10-24,20:08:00,20:28:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+142,2026-10-24,20:08:00,20:28:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+142,2026-10-24,20:08:00,20:28:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+143,2026-10-24,20:51:00,21:27:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Billetera digital,Sí
+143,2026-10-24,20:51:00,21:27:00,Teléfono,Lasagna de Carne,Pastas,1,34,Billetera digital,Sí
+143,2026-10-24,20:51:00,21:27:00,Teléfono,Coca Cola,Bebidas,2,5,Billetera digital,Sí
+144,2026-10-24,21:03:00,21:37:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,Sí
+144,2026-10-24,21:03:00,21:37:00,WhatsApp,Inca Kola,Bebidas,2,5,Billetera digital,Sí
+144,2026-10-24,21:03:00,21:37:00,WhatsApp,Limonada,Bebidas,3,8,Billetera digital,Sí
+145,2026-10-24,21:18:00,21:33:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+146,2026-10-24,21:45:00,22:17:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+147,2026-10-25,12:21:00,12:52:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Billetera digital,No
+147,2026-10-25,12:21:00,12:52:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+148,2026-10-25,12:26:00,12:58:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+148,2026-10-25,12:26:00,12:58:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+148,2026-10-25,12:26:00,12:58:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+149,2026-10-25,12:26:00,12:56:00,Presencial,Pizza Margarita,Pizzas,2,25,Billetera digital,No
+149,2026-10-25,12:26:00,12:56:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+150,2026-10-25,12:27:00,13:02:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,Sí
+150,2026-10-25,12:27:00,13:02:00,Presencial,Tiramisú,Postres,1,12,Efectivo,Sí
+151,2026-10-25,12:45:00,13:14:00,Presencial,Fettuccine Alfredo,Pastas,3,32,Efectivo,No
+152,2026-10-25,12:53:00,13:13:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+152,2026-10-25,12:53:00,13:13:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+153,2026-10-25,13:11:00,13:40:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+153,2026-10-25,13:11:00,13:40:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+154,2026-10-25,13:32:00,13:55:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+154,2026-10-25,13:32:00,13:55:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+155,2026-10-25,13:34:00,14:14:00,Teléfono,Pizza Margarita,Pizzas,2,25,Efectivo,No
+155,2026-10-25,13:34:00,14:14:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+155,2026-10-25,13:34:00,14:14:00,Teléfono,Coca Cola,Bebidas,3,5,Efectivo,No
+156,2026-10-25,13:39:00,14:07:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Billetera digital,No
+157,2026-10-25,13:51:00,14:20:00,Presencial,Bruschetta,Entradas,2,14,Tarjeta,No
+157,2026-10-25,13:51:00,14:20:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+157,2026-10-25,13:51:00,14:20:00,Presencial,Limonada,Bebidas,1,8,Tarjeta,No
+158,2026-10-25,14:01:00,14:25:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+158,2026-10-25,14:01:00,14:25:00,Presencial,Pan al Ajo,Entradas,2,8,Efectivo,No
+159,2026-10-25,14:14:00,14:41:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+160,2026-10-25,14:16:00,14:32:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+160,2026-10-25,14:16:00,14:32:00,Presencial,Tiramisú,Postres,2,12,Billetera digital,No
+161,2026-10-25,14:25:00,14:56:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+161,2026-10-25,14:25:00,14:56:00,Presencial,Bruschetta,Entradas,1,14,Efectivo,No
+161,2026-10-25,14:25:00,14:56:00,Presencial,Tiramisú,Postres,2,12,Efectivo,No
+162,2026-10-25,14:29:00,14:46:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+163,2026-10-25,14:37:00,14:51:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+163,2026-10-25,14:37:00,14:51:00,Presencial,Pan al Ajo,Entradas,2,8,Billetera digital,No
+163,2026-10-25,14:37:00,14:51:00,Presencial,Limonada,Bebidas,2,8,Billetera digital,No
+164,2026-10-25,14:40:00,14:54:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+165,2026-10-25,14:53:00,15:16:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+165,2026-10-25,14:53:00,15:16:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+166,2026-10-25,14:57:00,15:15:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+167,2026-10-25,15:14:00,15:56:00,Teléfono,Pan al Ajo,Entradas,1,8,Efectivo,No
+167,2026-10-25,15:14:00,15:56:00,Teléfono,Inca Kola,Bebidas,2,5,Efectivo,No
+167,2026-10-25,15:14:00,15:56:00,Teléfono,Tiramisú,Postres,2,12,Efectivo,No
+168,2026-10-25,15:25:00,15:46:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+168,2026-10-25,15:25:00,15:46:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+168,2026-10-25,15:25:00,15:46:00,Presencial,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+169,2026-10-25,15:50:00,16:15:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+169,2026-10-25,15:50:00,16:15:00,WhatsApp,Tiramisú,Postres,1,12,Billetera digital,No
+170,2026-10-25,17:52:00,18:32:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Efectivo,No
+170,2026-10-25,17:52:00,18:32:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+171,2026-10-25,18:25:00,18:51:00,Teléfono,Pizza Cuatro Quesos,Pizzas,3,32,Billetera digital,No
+172,2026-10-25,18:51:00,19:18:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+172,2026-10-25,18:51:00,19:18:00,Presencial,Bruschetta,Entradas,1,14,Billetera digital,No
+173,2026-10-25,19:38:00,20:01:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+173,2026-10-25,19:38:00,20:01:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+174,2026-10-25,19:42:00,19:58:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+175,2026-10-25,20:08:00,20:39:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+175,2026-10-25,20:08:00,20:39:00,Presencial,Pan al Ajo,Entradas,2,8,Efectivo,No
+176,2026-10-25,20:19:00,20:35:00,Presencial,Panna Cotta,Postres,1,11,Tarjeta,No
+177,2026-10-25,20:24:00,21:05:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+177,2026-10-25,20:24:00,21:05:00,Teléfono,Panna Cotta,Postres,1,11,Billetera digital,No
+178,2026-10-25,20:29:00,20:59:00,Teléfono,Pizza Margarita,Pizzas,2,25,Efectivo,No
+178,2026-10-25,20:29:00,20:59:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+178,2026-10-25,20:29:00,20:59:00,Teléfono,Pan al Ajo,Entradas,2,8,Efectivo,No
+178,2026-10-25,20:29:00,20:59:00,Teléfono,Inca Kola,Bebidas,2,5,Efectivo,No
+179,2026-10-25,20:38:00,20:56:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+179,2026-10-25,20:38:00,20:56:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Efectivo,No
+179,2026-10-25,20:38:00,20:56:00,Presencial,Lasagna de Carne,Pastas,1,34,Efectivo,No
+180,2026-10-25,20:40:00,21:23:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+180,2026-10-25,20:40:00,21:23:00,WhatsApp,Inca Kola,Bebidas,1,5,Billetera digital,No
+181,2026-10-25,20:56:00,21:18:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+181,2026-10-25,20:56:00,21:18:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+182,2026-10-25,21:22:00,21:54:00,Teléfono,Pizza Margarita,Pizzas,3,25,Tarjeta,No
+182,2026-10-25,21:22:00,21:54:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+183,2026-10-25,21:47:00,22:14:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+183,2026-10-25,21:47:00,22:14:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+184,2026-10-25,21:58:00,22:28:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+184,2026-10-25,21:58:00,22:28:00,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+185,2026-10-26,13:04:00,13:30:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+185,2026-10-26,13:04:00,13:30:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+186,2026-10-26,13:26:00,14:04:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+186,2026-10-26,13:26:00,14:04:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+187,2026-10-26,13:37:00,14:07:00,Presencial,Limonada,Bebidas,3,8,Billetera digital,No
+188,2026-10-26,13:47:00,14:04:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Efectivo,No
+188,2026-10-26,13:47:00,14:04:00,Presencial,Bruschetta,Entradas,2,14,Efectivo,No
+189,2026-10-26,13:49:00,14:27:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,Sí
+189,2026-10-26,13:49:00,14:27:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,Sí
+189,2026-10-26,13:49:00,14:27:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,Sí
+190,2026-10-26,13:54:00,14:18:00,Teléfono,Fettuccine Alfredo,Pastas,3,32,Billetera digital,No
+190,2026-10-26,13:54:00,14:18:00,Teléfono,Inca Kola,Bebidas,1,5,Billetera digital,No
+191,2026-10-26,14:31:00,15:30:00,WhatsApp,Pizza Margarita,Pizzas,2,25,Billetera digital,Sí
+191,2026-10-26,14:31:00,15:30:00,WhatsApp,Inca Kola,Bebidas,1,5,Billetera digital,Sí
+191,2026-10-26,14:31:00,15:30:00,WhatsApp,Tiramisú,Postres,2,12,Billetera digital,Sí
+192,2026-10-26,14:31:00,14:57:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+193,2026-10-26,14:35:00,15:07:00,Presencial,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+193,2026-10-26,14:35:00,15:07:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+194,2026-10-26,18:18:00,18:49:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Billetera digital,No
+195,2026-10-26,18:54:00,19:17:00,Teléfono,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+196,2026-10-26,19:12:00,19:26:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+196,2026-10-26,19:12:00,19:26:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+196,2026-10-26,19:12:00,19:26:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+196,2026-10-26,19:12:00,19:26:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+197,2026-10-26,19:32:00,19:52:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+198,2026-10-26,19:38:00,20:16:00,Presencial,Bruschetta,Entradas,2,14,Tarjeta,No
+198,2026-10-26,19:38:00,20:16:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+198,2026-10-26,19:38:00,20:16:00,Presencial,Tiramisú,Postres,2,12,Tarjeta,No
+198,2026-10-26,19:38:00,20:16:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+199,2026-10-26,19:43:00,20:17:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+200,2026-10-26,19:57:00,20:24:00,Presencial,Limonada,Bebidas,1,8,Tarjeta,No
+200,2026-10-26,19:57:00,20:24:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+201,2026-10-26,20:09:00,20:50:00,WhatsApp,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+201,2026-10-26,20:09:00,20:50:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+201,2026-10-26,20:09:00,20:50:00,WhatsApp,Limonada,Bebidas,1,8,Tarjeta,No
+202,2026-10-26,20:45:00,21:18:00,Presencial,Inca Kola,Bebidas,2,5,Tarjeta,Sí
+202,2026-10-26,20:45:00,21:18:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,Sí
+202,2026-10-26,20:45:00,21:18:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,Sí
+202,2026-10-26,20:45:00,21:18:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,Sí
+203,2026-10-27,13:02:00,13:27:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+203,2026-10-27,13:02:00,13:27:00,Presencial,Tiramisú,Postres,1,12,Tarjeta,No
+204,2026-10-27,13:30:00,14:10:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+205,2026-10-27,13:30:00,13:43:00,Presencial,Tiramisú,Postres,1,12,Billetera digital,No
+205,2026-10-27,13:30:00,13:43:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+205,2026-10-27,13:30:00,13:43:00,Presencial,Bruschetta,Entradas,1,14,Billetera digital,No
+206,2026-10-27,13:51:00,14:07:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+207,2026-10-27,13:51:00,14:27:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,No
+208,2026-10-27,14:37:00,14:55:00,Presencial,Limonada,Bebidas,1,8,Tarjeta,No
+208,2026-10-27,14:37:00,14:55:00,Presencial,Tiramisú,Postres,1,12,Tarjeta,No
+209,2026-10-27,15:11:00,15:40:00,Presencial,Lasagna de Carne,Pastas,2,34,Efectivo,No
+209,2026-10-27,15:11:00,15:40:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+210,2026-10-27,15:18:00,15:35:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+210,2026-10-27,15:18:00,15:35:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+211,2026-10-27,16:59:00,17:23:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Billetera digital,No
+212,2026-10-27,17:58:00,18:17:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+213,2026-10-27,18:59:00,19:18:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+213,2026-10-27,18:59:00,19:18:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+214,2026-10-27,19:21:00,19:39:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+214,2026-10-27,19:21:00,19:39:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,3,30,Billetera digital,No
+214,2026-10-27,19:21:00,19:39:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+214,2026-10-27,19:21:00,19:39:00,WhatsApp,Tiramisú,Postres,2,12,Billetera digital,No
+215,2026-10-27,19:23:00,19:41:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+215,2026-10-27,19:23:00,19:41:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+216,2026-10-27,19:31:00,20:12:00,Teléfono,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,Sí
+216,2026-10-27,19:31:00,20:12:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Tarjeta,Sí
+217,2026-10-27,20:03:00,20:20:00,Teléfono,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+217,2026-10-27,20:03:00,20:20:00,Teléfono,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+218,2026-10-27,20:53:00,21:24:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+218,2026-10-27,20:53:00,21:24:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+218,2026-10-27,20:53:00,21:24:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+219,2026-10-27,21:48:00,22:13:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+220,2026-10-28,13:17:00,14:01:00,WhatsApp,Limonada,Bebidas,1,8,Efectivo,No
+220,2026-10-28,13:17:00,14:01:00,WhatsApp,Coca Cola,Bebidas,1,5,Efectivo,No
+220,2026-10-28,13:17:00,14:01:00,WhatsApp,Tiramisú,Postres,1,12,Efectivo,No
+221,2026-10-28,13:27:00,13:51:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+221,2026-10-28,13:27:00,13:51:00,Presencial,Inca Kola,Bebidas,2,5,Efectivo,No
+221,2026-10-28,13:27:00,13:51:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Efectivo,No
+222,2026-10-28,13:29:00,14:17:00,WhatsApp,Limonada,Bebidas,1,8,Efectivo,Sí
+222,2026-10-28,13:29:00,14:17:00,WhatsApp,Coca Cola,Bebidas,1,5,Efectivo,Sí
+223,2026-10-28,13:51:00,14:07:00,Presencial,Panna Cotta,Postres,1,11,Efectivo,No
+223,2026-10-28,13:51:00,14:07:00,Presencial,Pizza Pepperoni,Pizzas,3,28,Efectivo,No
+224,2026-10-28,14:05:00,14:36:00,Presencial,Limonada,Bebidas,3,8,Tarjeta,No
+224,2026-10-28,14:05:00,14:36:00,Presencial,Inca Kola,Bebidas,3,5,Tarjeta,No
+224,2026-10-28,14:05:00,14:36:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+224,2026-10-28,14:05:00,14:36:00,Presencial,Fettuccine Alfredo,Pastas,3,32,Tarjeta,No
+225,2026-10-28,14:06:00,14:54:00,WhatsApp,Inca Kola,Bebidas,1,5,Billetera digital,Sí
+226,2026-10-28,14:24:00,15:06:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+227,2026-10-28,14:26:00,15:00:00,Presencial,Pan al Ajo,Entradas,2,8,Efectivo,No
+228,2026-10-28,14:34:00,15:06:00,WhatsApp,Limonada,Bebidas,1,8,Billetera digital,No
+228,2026-10-28,14:34:00,15:06:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+229,2026-10-28,14:47:00,15:16:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+229,2026-10-28,14:47:00,15:16:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+229,2026-10-28,14:47:00,15:16:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+229,2026-10-28,14:47:00,15:16:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+230,2026-10-28,15:03:00,15:26:00,Presencial,Inca Kola,Bebidas,2,5,Billetera digital,No
+230,2026-10-28,15:03:00,15:26:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+231,2026-10-28,15:32:00,16:02:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+232,2026-10-28,16:28:00,16:49:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+232,2026-10-28,16:28:00,16:49:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Billetera digital,No
+233,2026-10-28,17:52:00,18:15:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+233,2026-10-28,17:52:00,18:15:00,Presencial,Tiramisú,Postres,2,12,Tarjeta,No
+233,2026-10-28,17:52:00,18:15:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+234,2026-10-28,19:14:00,19:41:00,Presencial,Lasagna de Carne,Pastas,3,34,Billetera digital,No
+234,2026-10-28,19:14:00,19:41:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+234,2026-10-28,19:14:00,19:41:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+235,2026-10-28,20:03:00,20:40:00,WhatsApp,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+235,2026-10-28,20:03:00,20:40:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+235,2026-10-28,20:03:00,20:40:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,No
+236,2026-10-28,20:27:00,20:54:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+236,2026-10-28,20:27:00,20:54:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+236,2026-10-28,20:27:00,20:54:00,Presencial,Limonada,Bebidas,2,8,Efectivo,No
+237,2026-10-28,21:04:00,21:35:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+237,2026-10-28,21:04:00,21:35:00,Presencial,Inca Kola,Bebidas,3,5,Billetera digital,No
+238,2026-10-28,21:19:00,21:36:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+238,2026-10-28,21:19:00,21:36:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+238,2026-10-28,21:19:00,21:36:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+238,2026-10-28,21:19:00,21:36:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+239,2026-10-28,21:48:00,22:12:00,Presencial,Tiramisú,Postres,3,12,Tarjeta,No
+239,2026-10-28,21:48:00,22:12:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+239,2026-10-28,21:48:00,22:12:00,Presencial,Inca Kola,Bebidas,2,5,Tarjeta,No
+240,2026-10-29,13:34:00,14:03:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+240,2026-10-29,13:34:00,14:03:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+240,2026-10-29,13:34:00,14:03:00,WhatsApp,Tiramisú,Postres,1,12,Tarjeta,No
+241,2026-10-29,13:36:00,14:11:00,WhatsApp,Inca Kola,Bebidas,1,5,Billetera digital,No
+241,2026-10-29,13:36:00,14:11:00,WhatsApp,Fettuccine Alfredo,Pastas,3,32,Billetera digital,No
+241,2026-10-29,13:36:00,14:11:00,WhatsApp,Bruschetta,Entradas,1,14,Billetera digital,No
+241,2026-10-29,13:36:00,14:11:00,WhatsApp,Pan al Ajo,Entradas,1,8,Billetera digital,No
+242,2026-10-29,13:38:00,14:21:00,Teléfono,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+242,2026-10-29,13:38:00,14:21:00,Teléfono,Inca Kola,Bebidas,3,5,Billetera digital,No
+243,2026-10-29,13:46:00,14:24:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+243,2026-10-29,13:46:00,14:24:00,WhatsApp,Bruschetta,Entradas,1,14,Billetera digital,No
+243,2026-10-29,13:46:00,14:24:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+244,2026-10-29,13:52:00,14:05:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+244,2026-10-29,13:52:00,14:05:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+244,2026-10-29,13:52:00,14:05:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+245,2026-10-29,14:49:00,15:09:00,Presencial,Tiramisú,Postres,1,12,Billetera digital,No
+245,2026-10-29,14:49:00,15:09:00,Presencial,Panna Cotta,Postres,1,11,Billetera digital,No
+246,2026-10-29,15:03:00,15:25:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+247,2026-10-29,15:31:00,16:10:00,WhatsApp,Coca Cola,Bebidas,1,5,Efectivo,No
+247,2026-10-29,15:31:00,16:10:00,WhatsApp,Bruschetta,Entradas,1,14,Efectivo,No
+247,2026-10-29,15:31:00,16:10:00,WhatsApp,Pan al Ajo,Entradas,1,8,Efectivo,No
+248,2026-10-29,17:03:00,17:34:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,Sí
+248,2026-10-29,17:03:00,17:34:00,Presencial,Pizza Margarita,Pizzas,2,25,Billetera digital,Sí
+249,2026-10-29,17:27:00,17:46:00,Teléfono,Bruschetta,Entradas,1,14,Tarjeta,No
+249,2026-10-29,17:27:00,17:46:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+250,2026-10-29,17:34:00,18:16:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+250,2026-10-29,17:34:00,18:16:00,WhatsApp,Pizza Margarita,Pizzas,2,25,Billetera digital,No
+251,2026-10-29,18:07:00,18:28:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+251,2026-10-29,18:07:00,18:28:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+251,2026-10-29,18:07:00,18:28:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+252,2026-10-29,19:50:00,20:30:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+252,2026-10-29,19:50:00,20:30:00,WhatsApp,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+252,2026-10-29,19:50:00,20:30:00,WhatsApp,Pan al Ajo,Entradas,1,8,Efectivo,No
+253,2026-10-29,19:50:00,20:20:00,Presencial,Panna Cotta,Postres,2,11,Tarjeta,No
+253,2026-10-29,19:50:00,20:20:00,Presencial,Fettuccine Alfredo,Pastas,3,32,Tarjeta,No
+253,2026-10-29,19:50:00,20:20:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+254,2026-10-29,19:59:00,20:13:00,Presencial,Panna Cotta,Postres,1,11,Efectivo,No
+254,2026-10-29,19:59:00,20:13:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+255,2026-10-29,20:04:00,20:25:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+255,2026-10-29,20:04:00,20:25:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Tarjeta,No
+256,2026-10-29,20:14:00,20:56:00,Teléfono,Pan al Ajo,Entradas,2,8,Tarjeta,No
+256,2026-10-29,20:14:00,20:56:00,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+257,2026-10-29,20:16:00,21:00:00,Teléfono,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+257,2026-10-29,20:16:00,21:00:00,Teléfono,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+258,2026-10-29,20:19:00,20:32:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+258,2026-10-29,20:19:00,20:32:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+258,2026-10-29,20:19:00,20:32:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+258,2026-10-29,20:19:00,20:32:00,Presencial,Fettuccine Alfredo,Pastas,3,32,Efectivo,No
+259,2026-10-29,20:31:00,20:50:00,Presencial,Bruschetta,Entradas,2,14,Efectivo,No
+260,2026-10-29,20:51:00,21:13:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+260,2026-10-29,20:51:00,21:13:00,Presencial,Pizza Margarita,Pizzas,3,25,Efectivo,No
+260,2026-10-29,20:51:00,21:13:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+261,2026-10-29,21:01:00,21:23:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+262,2026-10-29,21:02:00,21:24:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Billetera digital,No
+262,2026-10-29,21:02:00,21:24:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+262,2026-10-29,21:02:00,21:24:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+262,2026-10-29,21:02:00,21:24:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+263,2026-10-29,21:48:00,22:06:00,Teléfono,Bruschetta,Entradas,1,14,Efectivo,No
+264,2026-10-30,12:40:00,,Teléfono,Pizza Pepperoni,Pizzas,3,28,Efectivo,Sí
+265,2026-10-30,12:57:00,13:16:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+265,2026-10-30,12:57:00,13:16:00,Presencial,Pizza Pepperoni,Pizzas,3,28,Tarjeta,No
+266,2026-10-30,13:34:00,13:59:00,Presencial,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+266,2026-10-30,13:34:00,13:59:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+266,2026-10-30,13:34:00,13:59:00,Presencial,Inca Kola,Bebidas,2,5,Tarjeta,No
+267,2026-10-30,13:37:00,14:11:00,WhatsApp,Tiramisú,Postres,2,12,Tarjeta,No
+268,2026-10-30,13:42:00,14:07:00,Presencial,Pan al Ajo,Entradas,2,8,Tarjeta,No
+268,2026-10-30,13:42:00,14:07:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+269,2026-10-30,13:57:00,14:38:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+269,2026-10-30,13:57:00,14:38:00,Teléfono,Pan al Ajo,Entradas,2,8,Efectivo,No
+269,2026-10-30,13:57:00,14:38:00,Teléfono,Tiramisú,Postres,3,12,Efectivo,No
+269,2026-10-30,13:57:00,14:38:00,Teléfono,Bruschetta,Entradas,1,14,Efectivo,No
+270,2026-10-30,14:06:00,14:36:00,WhatsApp,Tiramisú,Postres,2,12,Tarjeta,No
+270,2026-10-30,14:06:00,14:36:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+270,2026-10-30,14:06:00,14:36:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+271,2026-10-30,14:12:00,14:26:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+271,2026-10-30,14:12:00,14:26:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+271,2026-10-30,14:12:00,14:26:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+271,2026-10-30,14:12:00,14:26:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+272,2026-10-30,14:33:00,15:00:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+272,2026-10-30,14:33:00,15:00:00,Presencial,Inca Kola,Bebidas,2,5,Efectivo,No
+272,2026-10-30,14:33:00,15:00:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+272,2026-10-30,14:33:00,15:00:00,Presencial,Limonada,Bebidas,2,8,Efectivo,No
+273,2026-10-30,14:40:00,15:03:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+273,2026-10-30,14:40:00,15:03:00,Presencial,Inca Kola,Bebidas,3,5,Efectivo,No
+274,2026-10-30,14:41:00,15:30:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,Sí
+274,2026-10-30,14:41:00,15:30:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Tarjeta,Sí
+274,2026-10-30,14:41:00,15:30:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,Sí
+275,2026-10-30,15:08:00,15:21:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+276,2026-10-30,15:12:00,15:36:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Efectivo,No
+276,2026-10-30,15:12:00,15:36:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+277,2026-10-30,16:29:00,16:52:00,Teléfono,Pan al Ajo,Entradas,2,8,Efectivo,No
+277,2026-10-30,16:29:00,16:52:00,Teléfono,Inca Kola,Bebidas,1,5,Efectivo,No
+278,2026-10-30,17:14:00,18:04:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+278,2026-10-30,17:14:00,18:04:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+278,2026-10-30,17:14:00,18:04:00,WhatsApp,Pan al Ajo,Entradas,1,8,Efectivo,No
+279,2026-10-30,18:03:00,18:50:00,WhatsApp,Pan al Ajo,Entradas,2,8,Billetera digital,No
+279,2026-10-30,18:03:00,18:50:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+279,2026-10-30,18:03:00,18:50:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+280,2026-10-30,18:52:00,19:39:00,Teléfono,Pan al Ajo,Entradas,3,8,Tarjeta,Sí
+280,2026-10-30,18:52:00,19:39:00,Teléfono,Inca Kola,Bebidas,2,5,Tarjeta,Sí
+281,2026-10-30,19:02:00,19:33:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+281,2026-10-30,19:02:00,19:33:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+282,2026-10-30,19:08:00,19:26:00,Presencial,Pizza Margarita,Pizzas,3,25,Tarjeta,No
+282,2026-10-30,19:08:00,19:26:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+283,2026-10-30,19:23:00,20:08:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+284,2026-10-30,19:40:00,19:59:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+284,2026-10-30,19:40:00,19:59:00,Presencial,Pizza Cuatro Quesos,Pizzas,3,32,Efectivo,No
+285,2026-10-30,19:48:00,20:25:00,Teléfono,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+285,2026-10-30,19:48:00,20:25:00,Teléfono,Pizza Pepperoni,Pizzas,3,28,Billetera digital,No
+285,2026-10-30,19:48:00,20:25:00,Teléfono,Limonada,Bebidas,2,8,Billetera digital,No
+285,2026-10-30,19:48:00,20:25:00,Teléfono,Coca Cola,Bebidas,1,5,Billetera digital,No
+286,2026-10-30,19:55:00,20:30:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,3,30,Billetera digital,No
+286,2026-10-30,19:55:00,20:30:00,WhatsApp,Limonada,Bebidas,1,8,Billetera digital,No
+286,2026-10-30,19:55:00,20:30:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+286,2026-10-30,19:55:00,20:30:00,WhatsApp,Lasagna de Carne,Pastas,3,34,Billetera digital,No
+287,2026-10-30,19:55:00,20:22:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+287,2026-10-30,19:55:00,20:22:00,WhatsApp,Inca Kola,Bebidas,1,5,Efectivo,No
+288,2026-10-30,20:10:00,20:42:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+288,2026-10-30,20:10:00,20:42:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+289,2026-10-30,20:12:00,20:34:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+290,2026-10-30,20:17:00,20:41:00,Presencial,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+290,2026-10-30,20:17:00,20:41:00,Presencial,Tiramisú,Postres,3,12,Tarjeta,No
+291,2026-10-30,20:24:00,20:42:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+291,2026-10-30,20:24:00,20:42:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+291,2026-10-30,20:24:00,20:42:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+292,2026-10-30,20:26:00,20:46:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+292,2026-10-30,20:26:00,20:46:00,Presencial,Limonada,Bebidas,2,8,Efectivo,No
+293,2026-10-30,20:37:00,21:17:00,Teléfono,Limonada,Bebidas,1,8,Tarjeta,Sí
+293,2026-10-30,20:37:00,21:17:00,Teléfono,Lasagna de Carne,Pastas,2,34,Tarjeta,Sí
+294,2026-10-30,20:53:00,21:31:00,WhatsApp,Pan al Ajo,Entradas,1,8,Billetera digital,No
+295,2026-10-30,20:58:00,21:16:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+295,2026-10-30,20:58:00,21:16:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+295,2026-10-30,20:58:00,21:16:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+296,2026-10-31,12:54:00,13:22:00,Teléfono,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+296,2026-10-31,12:54:00,13:22:00,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+297,2026-10-31,12:57:00,13:36:00,Teléfono,Tiramisú,Postres,2,12,Tarjeta,No
+297,2026-10-31,12:57:00,13:36:00,Teléfono,Limonada,Bebidas,2,8,Tarjeta,No
+297,2026-10-31,12:57:00,13:36:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+298,2026-10-31,13:04:00,13:17:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+299,2026-10-31,13:06:00,13:33:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+299,2026-10-31,13:06:00,13:33:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+299,2026-10-31,13:06:00,13:33:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+299,2026-10-31,13:06:00,13:33:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+300,2026-10-31,13:07:00,13:50:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Efectivo,Sí
+300,2026-10-31,13:07:00,13:50:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Efectivo,Sí
+300,2026-10-31,13:07:00,13:50:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,Sí
+301,2026-10-31,13:15:00,13:38:00,WhatsApp,Inca Kola,Bebidas,1,5,Billetera digital,No
+301,2026-10-31,13:15:00,13:38:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+302,2026-10-31,13:23:00,13:58:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+303,2026-10-31,13:31:00,13:59:00,Presencial,Tiramisú,Postres,1,12,Billetera digital,No
+303,2026-10-31,13:31:00,13:59:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+303,2026-10-31,13:31:00,13:59:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+304,2026-10-31,13:31:00,14:12:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+304,2026-10-31,13:31:00,14:12:00,WhatsApp,Tiramisú,Postres,3,12,Efectivo,No
+304,2026-10-31,13:31:00,14:12:00,WhatsApp,Pizza Margarita,Pizzas,2,25,Efectivo,No
+305,2026-10-31,13:39:00,14:09:00,Presencial,Limonada,Bebidas,3,8,Billetera digital,No
+305,2026-10-31,13:39:00,14:09:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+305,2026-10-31,13:39:00,14:09:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+306,2026-10-31,13:40:00,14:28:00,Teléfono,Coca Cola,Bebidas,2,5,Tarjeta,Sí
+306,2026-10-31,13:40:00,14:28:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Tarjeta,Sí
+306,2026-10-31,13:40:00,14:28:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,Sí
+306,2026-10-31,13:40:00,14:28:00,Teléfono,Pan al Ajo,Entradas,2,8,Tarjeta,Sí
+307,2026-10-31,13:43:00,14:13:00,Presencial,Coca Cola,Bebidas,3,5,Efectivo,No
+307,2026-10-31,13:43:00,14:13:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+307,2026-10-31,13:43:00,14:13:00,Presencial,Pan al Ajo,Entradas,3,8,Efectivo,No
+308,2026-10-31,13:55:00,14:34:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,No
+308,2026-10-31,13:55:00,14:34:00,WhatsApp,Inca Kola,Bebidas,1,5,Billetera digital,No
+308,2026-10-31,13:55:00,14:34:00,WhatsApp,Limonada,Bebidas,2,8,Billetera digital,No
+308,2026-10-31,13:55:00,14:34:00,WhatsApp,Pan al Ajo,Entradas,1,8,Billetera digital,No
+309,2026-10-31,13:59:00,14:22:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+309,2026-10-31,13:59:00,14:22:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+309,2026-10-31,13:59:00,14:22:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+310,2026-10-31,14:07:00,14:33:00,Presencial,Inca Kola,Bebidas,2,5,Billetera digital,No
+311,2026-10-31,14:11:00,14:56:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+312,2026-10-31,14:19:00,14:47:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+313,2026-10-31,14:28:00,14:43:00,Presencial,Tiramisú,Postres,1,12,Billetera digital,No
+313,2026-10-31,14:28:00,14:43:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+314,2026-10-31,14:37:00,15:06:00,Presencial,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+315,2026-10-31,14:38:00,15:12:00,WhatsApp,Pizza Margarita,Pizzas,2,25,Billetera digital,No
+315,2026-10-31,14:38:00,15:12:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+316,2026-10-31,14:40:00,15:03:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+316,2026-10-31,14:40:00,15:03:00,Presencial,Pizza Margarita,Pizzas,3,25,Efectivo,No
+317,2026-10-31,14:44:00,15:24:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+317,2026-10-31,14:44:00,15:24:00,WhatsApp,Limonada,Bebidas,3,8,Billetera digital,No
+317,2026-10-31,14:44:00,15:24:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+318,2026-10-31,14:48:00,15:25:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+319,2026-10-31,16:11:00,17:05:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,Sí
+320,2026-10-31,16:55:00,17:47:00,Teléfono,Pizza Pepperoni,Pizzas,3,28,Tarjeta,Sí
+320,2026-10-31,16:55:00,17:47:00,Teléfono,Fettuccine Alfredo,Pastas,2,32,Tarjeta,Sí
+321,2026-10-31,17:30:00,17:43:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+322,2026-10-31,18:48:00,19:10:00,WhatsApp,Tiramisú,Postres,2,12,Tarjeta,No
+322,2026-10-31,18:48:00,19:10:00,WhatsApp,Bruschetta,Entradas,2,14,Tarjeta,No
+323,2026-10-31,18:55:00,19:49:00,WhatsApp,Bruschetta,Entradas,1,14,Efectivo,No
+323,2026-10-31,18:55:00,19:49:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+323,2026-10-31,18:55:00,19:49:00,WhatsApp,Pan al Ajo,Entradas,3,8,Efectivo,No
+323,2026-10-31,18:55:00,19:49:00,WhatsApp,Inca Kola,Bebidas,2,5,Efectivo,No
+324,2026-10-31,19:09:00,19:38:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+324,2026-10-31,19:09:00,19:38:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+324,2026-10-31,19:09:00,19:38:00,Teléfono,Coca Cola,Bebidas,1,5,Billetera digital,No
+324,2026-10-31,19:09:00,19:38:00,Teléfono,Pan al Ajo,Entradas,1,8,Billetera digital,No
+325,2026-10-31,19:25:00,19:53:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,Sí
+325,2026-10-31,19:25:00,19:53:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,Sí
+326,2026-10-31,19:37:00,20:27:00,WhatsApp,Lasagna de Carne,Pastas,2,34,Efectivo,No
+327,2026-10-31,19:38:00,20:01:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+328,2026-10-31,19:44:00,20:00:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+328,2026-10-31,19:44:00,20:00:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+329,2026-10-31,19:48:00,20:15:00,Teléfono,Panna Cotta,Postres,2,11,Billetera digital,No
+329,2026-10-31,19:48:00,20:15:00,Teléfono,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+329,2026-10-31,19:48:00,20:15:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+330,2026-10-31,19:54:00,20:07:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+331,2026-10-31,20:04:00,20:20:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+331,2026-10-31,20:04:00,20:20:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+331,2026-10-31,20:04:00,20:20:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+332,2026-10-31,20:06:00,20:34:00,Presencial,Bruschetta,Entradas,2,14,Tarjeta,No
+332,2026-10-31,20:06:00,20:34:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+332,2026-10-31,20:06:00,20:34:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+333,2026-10-31,20:06:00,20:28:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+333,2026-10-31,20:06:00,20:28:00,Presencial,Limonada,Bebidas,1,8,Efectivo,No
+333,2026-10-31,20:06:00,20:28:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+334,2026-10-31,20:13:00,21:04:00,Teléfono,Inca Kola,Bebidas,1,5,Tarjeta,Sí
+334,2026-10-31,20:13:00,21:04:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Tarjeta,Sí
+335,2026-10-31,20:21:00,20:40:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+335,2026-10-31,20:21:00,20:40:00,Presencial,Pan al Ajo,Entradas,2,8,Tarjeta,No
+336,2026-10-31,20:26:00,20:49:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+336,2026-10-31,20:26:00,20:49:00,Presencial,Tiramisú,Postres,2,12,Efectivo,No
+336,2026-10-31,20:26:00,20:49:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+337,2026-10-31,20:32:00,21:01:00,Presencial,Lasagna de Carne,Pastas,3,34,Tarjeta,No
+338,2026-10-31,20:38:00,21:08:00,WhatsApp,Coca Cola,Bebidas,1,5,Efectivo,No
+339,2026-10-31,20:40:00,21:00:00,WhatsApp,Limonada,Bebidas,1,8,Tarjeta,No
+339,2026-10-31,20:40:00,21:00:00,WhatsApp,Bruschetta,Entradas,3,14,Tarjeta,No
+339,2026-10-31,20:40:00,21:00:00,WhatsApp,Tiramisú,Postres,1,12,Tarjeta,No
+339,2026-10-31,20:40:00,21:00:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+340,2026-10-31,21:03:00,21:40:00,Teléfono,Pizza Margarita,Pizzas,2,25,Billetera digital,No
+341,2026-10-31,21:48:00,22:02:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,No
+341,2026-10-31,21:48:00,22:02:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+342,2026-11-01,12:29:00,12:55:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+342,2026-11-01,12:29:00,12:55:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+343,2026-11-01,13:00:00,,WhatsApp,Coca Cola,Bebidas,1,5,Efectivo,No
+343,2026-11-01,13:00:00,,WhatsApp,Inca Kola,Bebidas,2,5,Efectivo,No
+343,2026-11-01,13:00:00,,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+344,2026-11-01,13:04:00,13:48:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+344,2026-11-01,13:04:00,13:48:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,3,30,Tarjeta,No
+345,2026-11-01,13:05:00,13:20:00,Presencial,Pizza Margarita,Pizzas,3,25,Efectivo,No
+345,2026-11-01,13:05:00,13:20:00,Presencial,Lasagna de Carne,Pastas,3,34,Efectivo,No
+345,2026-11-01,13:05:00,13:20:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+346,2026-11-01,13:18:00,13:33:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+346,2026-11-01,13:18:00,13:33:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+347,2026-11-01,13:20:00,14:06:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+347,2026-11-01,13:20:00,14:06:00,WhatsApp,Inca Kola,Bebidas,1,5,Billetera digital,No
+347,2026-11-01,13:20:00,14:06:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+348,2026-11-01,13:36:00,14:00:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+348,2026-11-01,13:36:00,14:00:00,Presencial,Inca Kola,Bebidas,2,5,Billetera digital,No
+349,2026-11-01,13:38:00,14:21:00,Teléfono,Lasagna de Carne,Pastas,1,34,Efectivo,Sí
+350,2026-11-01,13:39:00,13:53:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+350,2026-11-01,13:39:00,13:53:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+351,2026-11-01,13:41:00,14:03:00,Presencial,Lasagna de Carne,Pastas,3,34,Efectivo,No
+351,2026-11-01,13:41:00,14:03:00,Presencial,Fettuccine Alfredo,Pastas,3,32,Efectivo,No
+352,2026-11-01,13:43:00,14:06:00,Presencial,Limonada,Bebidas,1,8,Tarjeta,No
+352,2026-11-01,13:43:00,14:06:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+352,2026-11-01,13:43:00,14:06:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+353,2026-11-01,13:47:00,14:06:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+353,2026-11-01,13:47:00,14:06:00,Presencial,Pan al Ajo,Entradas,2,8,Tarjeta,No
+353,2026-11-01,13:47:00,14:06:00,Presencial,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+354,2026-11-01,13:53:00,14:33:00,Presencial,Pizza Margarita,Pizzas,3,25,Efectivo,Sí
+354,2026-11-01,13:53:00,14:33:00,Presencial,Limonada,Bebidas,1,8,Efectivo,Sí
+355,2026-11-01,13:54:00,14:07:00,Presencial,Pizza Margarita,Pizzas,3,25,Efectivo,No
+355,2026-11-01,13:54:00,14:07:00,Presencial,Pizza Pepperoni,Pizzas,3,28,Efectivo,No
+355,2026-11-01,13:54:00,14:07:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+355,2026-11-01,13:54:00,14:07:00,Presencial,Bruschetta,Entradas,3,14,Efectivo,No
+356,2026-11-01,14:08:00,14:42:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+356,2026-11-01,14:08:00,14:42:00,Teléfono,Coca Cola,Bebidas,1,5,Efectivo,No
+356,2026-11-01,14:08:00,14:42:00,Teléfono,Lasagna de Carne,Pastas,1,34,Efectivo,No
+357,2026-11-01,14:10:00,14:36:00,Presencial,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+358,2026-11-01,14:20:00,14:51:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+358,2026-11-01,14:20:00,14:51:00,Presencial,Panna Cotta,Postres,3,11,Tarjeta,No
+358,2026-11-01,14:20:00,14:51:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+359,2026-11-01,14:24:00,14:47:00,Presencial,Tiramisú,Postres,2,12,Billetera digital,No
+359,2026-11-01,14:24:00,14:47:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+360,2026-11-01,14:34:00,14:56:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+360,2026-11-01,14:34:00,14:56:00,WhatsApp,Coca Cola,Bebidas,1,5,Efectivo,No
+361,2026-11-01,14:46:00,15:19:00,Teléfono,Inca Kola,Bebidas,2,5,Billetera digital,No
+361,2026-11-01,14:46:00,15:19:00,Teléfono,Bruschetta,Entradas,1,14,Billetera digital,No
+361,2026-11-01,14:46:00,15:19:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+361,2026-11-01,14:46:00,15:19:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+362,2026-11-01,17:01:00,17:18:00,WhatsApp,Pan al Ajo,Entradas,2,8,Tarjeta,No
+362,2026-11-01,17:01:00,17:18:00,WhatsApp,Inca Kola,Bebidas,1,5,Tarjeta,No
+362,2026-11-01,17:01:00,17:18:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+362,2026-11-01,17:01:00,17:18:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+363,2026-11-01,17:08:00,17:27:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+364,2026-11-01,17:29:00,17:52:00,Teléfono,Pan al Ajo,Entradas,1,8,Billetera digital,No
+365,2026-11-01,17:33:00,18:05:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,Sí
+365,2026-11-01,17:33:00,18:05:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,Sí
+366,2026-11-01,17:59:00,18:20:00,Presencial,Limonada,Bebidas,2,8,Efectivo,No
+366,2026-11-01,17:59:00,18:20:00,Presencial,Lasagna de Carne,Pastas,2,34,Efectivo,No
+366,2026-11-01,17:59:00,18:20:00,Presencial,Inca Kola,Bebidas,3,5,Efectivo,No
+366,2026-11-01,17:59:00,18:20:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+367,2026-11-01,18:09:00,18:51:00,Teléfono,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,Sí
+367,2026-11-01,18:09:00,18:51:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Efectivo,Sí
+368,2026-11-01,19:26:00,19:44:00,Presencial,Tiramisú,Postres,2,12,Efectivo,No
+368,2026-11-01,19:26:00,19:44:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+368,2026-11-01,19:26:00,19:44:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+368,2026-11-01,19:26:00,19:44:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+369,2026-11-01,19:29:00,19:44:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+369,2026-11-01,19:29:00,19:44:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+369,2026-11-01,19:29:00,19:44:00,Presencial,Limonada,Bebidas,3,8,Billetera digital,No
+370,2026-11-01,19:33:00,19:51:00,Presencial,Bruschetta,Entradas,1,14,Billetera digital,No
+370,2026-11-01,19:33:00,19:51:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+370,2026-11-01,19:33:00,19:51:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+371,2026-11-01,19:44:00,20:20:00,WhatsApp,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+371,2026-11-01,19:44:00,20:20:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+372,2026-11-01,19:44:00,20:23:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+373,2026-11-01,19:53:00,20:35:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,No
+374,2026-11-01,20:06:00,20:40:00,WhatsApp,Pizza Pepperoni,Pizzas,2,28,Billetera digital,No
+374,2026-11-01,20:06:00,20:40:00,WhatsApp,Pan al Ajo,Entradas,1,8,Billetera digital,No
+374,2026-11-01,20:06:00,20:40:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,No
+375,2026-11-01,20:06:00,20:29:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+375,2026-11-01,20:06:00,20:29:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+376,2026-11-01,20:08:00,20:38:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+376,2026-11-01,20:08:00,20:38:00,WhatsApp,Coca Cola,Bebidas,1,5,Efectivo,No
+377,2026-11-01,20:13:00,20:42:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+377,2026-11-01,20:13:00,20:42:00,Teléfono,Inca Kola,Bebidas,1,5,Billetera digital,No
+377,2026-11-01,20:13:00,20:42:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+378,2026-11-01,20:22:00,20:47:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+378,2026-11-01,20:22:00,20:47:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+378,2026-11-01,20:22:00,20:47:00,Presencial,Panna Cotta,Postres,1,11,Efectivo,No
+378,2026-11-01,20:22:00,20:47:00,Presencial,Tiramisú,Postres,2,12,Efectivo,No
+379,2026-11-01,20:33:00,20:46:00,Presencial,Lasagna de Carne,Pastas,1,34,Efectivo,No
+379,2026-11-01,20:33:00,20:46:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+380,2026-11-01,20:36:00,20:56:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+380,2026-11-01,20:36:00,20:56:00,Presencial,Bruschetta,Entradas,2,14,Billetera digital,No
+381,2026-11-01,20:37:00,20:53:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+381,2026-11-01,20:37:00,20:53:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+382,2026-11-01,20:38:00,20:51:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+382,2026-11-01,20:38:00,20:51:00,Presencial,Tiramisú,Postres,2,12,Efectivo,No
+383,2026-11-01,20:53:00,21:23:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+383,2026-11-01,20:53:00,21:23:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+383,2026-11-01,20:53:00,21:23:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+384,2026-11-01,21:41:00,22:07:00,Presencial,Lasagna de Carne,Pastas,2,34,Efectivo,No
+384,2026-11-01,21:41:00,22:07:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+384,2026-11-01,21:41:00,22:07:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+384,2026-11-01,21:41:00,22:07:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+385,2026-11-02,12:26:00,12:54:00,Presencial,Lasagna de Carne,Pastas,1,34,Efectivo,No
+385,2026-11-02,12:26:00,12:54:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+385,2026-11-02,12:26:00,12:54:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+386,2026-11-02,12:55:00,13:14:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+387,2026-11-02,13:23:00,13:55:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+387,2026-11-02,13:23:00,13:55:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+388,2026-11-02,13:27:00,13:57:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+388,2026-11-02,13:27:00,13:57:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+389,2026-11-02,13:31:00,13:50:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+390,2026-11-02,13:55:00,14:25:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+391,2026-11-02,14:19:00,14:37:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+391,2026-11-02,14:19:00,14:37:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+392,2026-11-02,14:20:00,15:00:00,WhatsApp,Coca Cola,Bebidas,2,5,Efectivo,No
+393,2026-11-02,14:49:00,15:13:00,Presencial,Inca Kola,Bebidas,3,5,Tarjeta,No
+394,2026-11-02,19:16:00,19:49:00,Presencial,Panna Cotta,Postres,1,11,Efectivo,Sí
+394,2026-11-02,19:16:00,19:49:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,Sí
+394,2026-11-02,19:16:00,19:49:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,Sí
+395,2026-11-02,19:27:00,19:52:00,Presencial,Pan al Ajo,Entradas,3,8,Billetera digital,No
+395,2026-11-02,19:27:00,19:52:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+396,2026-11-02,19:36:00,19:58:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+396,2026-11-02,19:36:00,19:58:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+397,2026-11-02,20:22:00,21:02:00,Teléfono,Pizza Margarita,Pizzas,1,25,Efectivo,No
+398,2026-11-02,20:52:00,21:34:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+398,2026-11-02,20:52:00,21:34:00,WhatsApp,Coca Cola,Bebidas,1,5,Tarjeta,No
+398,2026-11-02,20:52:00,21:34:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+399,2026-11-02,21:35:00,22:10:00,Teléfono,Coca Cola,Bebidas,1,5,Efectivo,No
+400,2026-11-03,13:03:00,13:33:00,WhatsApp,Pan al Ajo,Entradas,1,8,Billetera digital,No
+400,2026-11-03,13:03:00,13:33:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,No
+401,2026-11-03,13:13:00,14:05:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,Sí
+401,2026-11-03,13:13:00,14:05:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,Sí
+401,2026-11-03,13:13:00,14:05:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Billetera digital,Sí
+402,2026-11-03,13:23:00,13:49:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+402,2026-11-03,13:23:00,13:49:00,Presencial,Tiramisú,Postres,1,12,Efectivo,No
+402,2026-11-03,13:23:00,13:49:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+403,2026-11-03,13:26:00,13:56:00,Presencial,Lasagna de Carne,Pastas,2,34,Efectivo,No
+403,2026-11-03,13:26:00,13:56:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+403,2026-11-03,13:26:00,13:56:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+404,2026-11-03,13:36:00,14:02:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+404,2026-11-03,13:36:00,14:02:00,Presencial,Coca Cola,Bebidas,3,5,Efectivo,No
+405,2026-11-03,13:37:00,14:02:00,WhatsApp,Tiramisú,Postres,2,12,Tarjeta,No
+405,2026-11-03,13:37:00,14:02:00,WhatsApp,Bruschetta,Entradas,1,14,Tarjeta,No
+406,2026-11-03,14:43:00,15:05:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+406,2026-11-03,14:43:00,15:05:00,Presencial,Bruschetta,Entradas,3,14,Efectivo,No
+407,2026-11-03,15:01:00,15:35:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+407,2026-11-03,15:01:00,15:35:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+408,2026-11-03,15:08:00,15:21:00,Presencial,Panna Cotta,Postres,1,11,Tarjeta,No
+408,2026-11-03,15:08:00,15:21:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+409,2026-11-03,15:36:00,16:17:00,WhatsApp,Bruschetta,Entradas,1,14,Efectivo,No
+409,2026-11-03,15:36:00,16:17:00,WhatsApp,Coca Cola,Bebidas,2,5,Efectivo,No
+409,2026-11-03,15:36:00,16:17:00,WhatsApp,Inca Kola,Bebidas,3,5,Efectivo,No
+410,2026-11-03,17:16:00,17:44:00,Presencial,Panna Cotta,Postres,2,11,Tarjeta,No
+410,2026-11-03,17:16:00,17:44:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+411,2026-11-03,19:18:00,20:09:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Efectivo,Sí
+411,2026-11-03,19:18:00,20:09:00,Teléfono,Lasagna de Carne,Pastas,1,34,Efectivo,Sí
+412,2026-11-03,19:21:00,19:37:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,No
+412,2026-11-03,19:21:00,19:37:00,WhatsApp,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+413,2026-11-03,19:22:00,19:42:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+414,2026-11-03,19:40:00,20:32:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+414,2026-11-03,19:40:00,20:32:00,Teléfono,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+415,2026-11-03,19:48:00,20:28:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+415,2026-11-03,19:48:00,20:28:00,WhatsApp,Panna Cotta,Postres,1,11,Tarjeta,No
+416,2026-11-03,19:53:00,20:30:00,WhatsApp,Pan al Ajo,Entradas,3,8,Efectivo,No
+417,2026-11-03,20:04:00,20:28:00,Teléfono,Lasagna de Carne,Pastas,1,34,Tarjeta,Sí
+417,2026-11-03,20:04:00,20:28:00,Teléfono,Limonada,Bebidas,1,8,Tarjeta,Sí
+417,2026-11-03,20:04:00,20:28:00,Teléfono,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,Sí
+417,2026-11-03,20:04:00,20:28:00,Teléfono,Bruschetta,Entradas,2,14,Tarjeta,Sí
+418,2026-11-03,20:25:00,21:20:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Tarjeta,Sí
+419,2026-11-04,12:56:00,13:23:00,Presencial,Limonada,Bebidas,2,8,Billetera digital,No
+419,2026-11-04,12:56:00,13:23:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+419,2026-11-04,12:56:00,13:23:00,Presencial,Tiramisú,Postres,1,12,Billetera digital,No
+420,2026-11-04,13:01:00,13:35:00,Teléfono,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+420,2026-11-04,13:01:00,13:35:00,Teléfono,Panna Cotta,Postres,1,11,Billetera digital,No
+420,2026-11-04,13:01:00,13:35:00,Teléfono,Limonada,Bebidas,1,8,Billetera digital,No
+421,2026-11-04,13:18:00,,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+421,2026-11-04,13:18:00,,Presencial,Tiramisú,Postres,1,12,Efectivo,No
+421,2026-11-04,13:18:00,,Presencial,Inca Kola,Bebidas,3,5,Efectivo,No
+421,2026-11-04,13:18:00,,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+422,2026-11-04,13:47:00,14:18:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+422,2026-11-04,13:47:00,14:18:00,Presencial,Bruschetta,Entradas,1,14,Billetera digital,No
+423,2026-11-04,13:54:00,14:22:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,Sí
+423,2026-11-04,13:54:00,14:22:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,Sí
+424,2026-11-04,14:05:00,14:32:00,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+424,2026-11-04,14:05:00,14:32:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Billetera digital,No
+425,2026-11-04,14:25:00,15:12:00,WhatsApp,Coca Cola,Bebidas,1,5,Efectivo,Sí
+425,2026-11-04,14:25:00,15:12:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Efectivo,Sí
+426,2026-11-04,14:31:00,15:02:00,Teléfono,Pan al Ajo,Entradas,1,8,Billetera digital,No
+426,2026-11-04,14:31:00,15:02:00,Teléfono,Coca Cola,Bebidas,2,5,Billetera digital,No
+427,2026-11-04,14:34:00,15:17:00,WhatsApp,Panna Cotta,Postres,1,11,Billetera digital,No
+427,2026-11-04,14:34:00,15:17:00,WhatsApp,Tiramisú,Postres,1,12,Billetera digital,No
+428,2026-11-04,14:46:00,15:46:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Tarjeta,Sí
+429,2026-11-04,16:32:00,16:49:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+429,2026-11-04,16:32:00,16:49:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+430,2026-11-04,17:44:00,18:25:00,WhatsApp,Inca Kola,Bebidas,1,5,Billetera digital,No
+430,2026-11-04,17:44:00,18:25:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+430,2026-11-04,17:44:00,18:25:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Billetera digital,No
+431,2026-11-04,17:51:00,18:14:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+431,2026-11-04,17:51:00,18:14:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+431,2026-11-04,17:51:00,18:14:00,Presencial,Panna Cotta,Postres,1,11,Billetera digital,No
+432,2026-11-04,18:28:00,18:53:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+432,2026-11-04,18:28:00,18:53:00,WhatsApp,Coca Cola,Bebidas,2,5,Efectivo,No
+433,2026-11-04,18:57:00,19:10:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+433,2026-11-04,18:57:00,19:10:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+434,2026-11-04,19:27:00,20:06:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+434,2026-11-04,19:27:00,20:06:00,Teléfono,Coca Cola,Bebidas,2,5,Billetera digital,No
+434,2026-11-04,19:27:00,20:06:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+434,2026-11-04,19:27:00,20:06:00,Teléfono,Bruschetta,Entradas,2,14,Billetera digital,No
+435,2026-11-04,19:42:00,20:11:00,Presencial,Tiramisú,Postres,1,12,Efectivo,No
+435,2026-11-04,19:42:00,20:11:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+436,2026-11-04,20:16:00,20:41:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+437,2026-11-04,20:32:00,21:07:00,WhatsApp,Inca Kola,Bebidas,1,5,Efectivo,No
+437,2026-11-04,20:32:00,21:07:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+438,2026-11-05,12:35:00,13:19:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,Sí
+438,2026-11-05,12:35:00,13:19:00,WhatsApp,Pizza Margarita,Pizzas,2,25,Billetera digital,Sí
+439,2026-11-05,12:41:00,13:07:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+439,2026-11-05,12:41:00,13:07:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+439,2026-11-05,12:41:00,13:07:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+440,2026-11-05,13:20:00,14:08:00,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+440,2026-11-05,13:20:00,14:08:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+441,2026-11-05,13:20:00,13:33:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+441,2026-11-05,13:20:00,13:33:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+441,2026-11-05,13:20:00,13:33:00,Presencial,Tiramisú,Postres,2,12,Tarjeta,No
+441,2026-11-05,13:20:00,13:33:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+442,2026-11-05,13:33:00,14:16:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+442,2026-11-05,13:33:00,14:16:00,Teléfono,Pan al Ajo,Entradas,1,8,Tarjeta,No
+443,2026-11-05,14:01:00,14:30:00,Presencial,Inca Kola,Bebidas,2,5,Efectivo,No
+444,2026-11-05,14:03:00,14:28:00,Presencial,Pan al Ajo,Entradas,2,8,Tarjeta,No
+444,2026-11-05,14:03:00,14:28:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,No
+445,2026-11-05,14:04:00,14:32:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+445,2026-11-05,14:04:00,14:32:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+446,2026-11-05,14:18:00,15:14:00,Teléfono,Tiramisú,Postres,2,12,Efectivo,Sí
+447,2026-11-05,14:29:00,14:55:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+447,2026-11-05,14:29:00,14:55:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+447,2026-11-05,14:29:00,14:55:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+448,2026-11-05,14:34:00,15:07:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+449,2026-11-05,14:38:00,15:17:00,Teléfono,Pan al Ajo,Entradas,1,8,Billetera digital,No
+450,2026-11-05,14:56:00,15:32:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+450,2026-11-05,14:56:00,15:32:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+450,2026-11-05,14:56:00,15:32:00,Teléfono,Pan al Ajo,Entradas,2,8,Billetera digital,No
+451,2026-11-05,16:05:00,16:46:00,WhatsApp,Pizza Margarita,Pizzas,3,25,Efectivo,No
+451,2026-11-05,16:05:00,16:46:00,WhatsApp,Tiramisú,Postres,1,12,Efectivo,No
+452,2026-11-05,17:32:00,18:03:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+452,2026-11-05,17:32:00,18:03:00,Presencial,Limonada,Bebidas,1,8,Efectivo,No
+452,2026-11-05,17:32:00,18:03:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+452,2026-11-05,17:32:00,18:03:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+453,2026-11-05,18:46:00,19:08:00,Presencial,Lasagna de Carne,Pastas,1,34,Efectivo,No
+453,2026-11-05,18:46:00,19:08:00,Presencial,Bruschetta,Entradas,1,14,Efectivo,No
+454,2026-11-05,20:06:00,20:35:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,Sí
+454,2026-11-05,20:06:00,20:35:00,Presencial,Tiramisú,Postres,1,12,Billetera digital,Sí
+454,2026-11-05,20:06:00,20:35:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,Sí
+455,2026-11-05,20:07:00,20:46:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+456,2026-11-05,20:09:00,20:27:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+456,2026-11-05,20:09:00,20:27:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+456,2026-11-05,20:09:00,20:27:00,Presencial,Tiramisú,Postres,1,12,Tarjeta,No
+457,2026-11-05,20:33:00,21:16:00,Teléfono,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+457,2026-11-05,20:33:00,21:16:00,Teléfono,Pizza Margarita,Pizzas,3,25,Efectivo,No
+458,2026-11-05,20:43:00,21:02:00,Presencial,Tiramisú,Postres,3,12,Tarjeta,No
+459,2026-11-06,12:34:00,13:07:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+460,2026-11-06,13:24:00,13:51:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+461,2026-11-06,13:28:00,14:00:00,Presencial,Pan al Ajo,Entradas,2,8,Tarjeta,No
+461,2026-11-06,13:28:00,14:00:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Tarjeta,No
+461,2026-11-06,13:28:00,14:00:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+462,2026-11-06,13:37:00,14:23:00,Teléfono,Pan al Ajo,Entradas,2,8,Efectivo,Sí
+462,2026-11-06,13:37:00,14:23:00,Teléfono,Bruschetta,Entradas,1,14,Efectivo,Sí
+463,2026-11-06,13:42:00,14:14:00,WhatsApp,Coca Cola,Bebidas,2,5,Efectivo,No
+463,2026-11-06,13:42:00,14:14:00,WhatsApp,Pan al Ajo,Entradas,2,8,Efectivo,No
+464,2026-11-06,13:49:00,14:14:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+464,2026-11-06,13:49:00,14:14:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+464,2026-11-06,13:49:00,14:14:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+465,2026-11-06,13:55:00,14:12:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+465,2026-11-06,13:55:00,14:12:00,Presencial,Limonada,Bebidas,3,8,Efectivo,No
+465,2026-11-06,13:55:00,14:12:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+465,2026-11-06,13:55:00,14:12:00,Presencial,Lasagna de Carne,Pastas,1,34,Efectivo,No
+466,2026-11-06,14:07:00,14:31:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+466,2026-11-06,14:07:00,14:31:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+466,2026-11-06,14:07:00,14:31:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+466,2026-11-06,14:07:00,14:31:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+467,2026-11-06,14:11:00,14:35:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+468,2026-11-06,14:18:00,14:45:00,Presencial,Bruschetta,Entradas,2,14,Tarjeta,No
+468,2026-11-06,14:18:00,14:45:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+468,2026-11-06,14:18:00,14:45:00,Presencial,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+468,2026-11-06,14:18:00,14:45:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+469,2026-11-06,14:27:00,14:56:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+470,2026-11-06,14:31:00,14:48:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+471,2026-11-06,16:56:00,17:22:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,Sí
+471,2026-11-06,16:56:00,17:22:00,Teléfono,Pizza Cuatro Quesos,Pizzas,2,32,Billetera digital,Sí
+472,2026-11-06,17:07:00,17:39:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+472,2026-11-06,17:07:00,17:39:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+473,2026-11-06,17:40:00,18:00:00,Presencial,Bruschetta,Entradas,3,14,Tarjeta,No
+473,2026-11-06,17:40:00,18:00:00,Presencial,Inca Kola,Bebidas,2,5,Tarjeta,No
+473,2026-11-06,17:40:00,18:00:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+473,2026-11-06,17:40:00,18:00:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+474,2026-11-06,17:43:00,18:09:00,WhatsApp,Tiramisú,Postres,1,12,Tarjeta,No
+474,2026-11-06,17:43:00,18:09:00,WhatsApp,Inca Kola,Bebidas,1,5,Tarjeta,No
+474,2026-11-06,17:43:00,18:09:00,WhatsApp,Pan al Ajo,Entradas,2,8,Tarjeta,No
+475,2026-11-06,17:53:00,18:24:00,WhatsApp,Bruschetta,Entradas,2,14,Tarjeta,No
+475,2026-11-06,17:53:00,18:24:00,WhatsApp,Coca Cola,Bebidas,1,5,Tarjeta,No
+476,2026-11-06,19:14:00,19:47:00,Presencial,Coca Cola,Bebidas,3,5,Tarjeta,No
+476,2026-11-06,19:14:00,19:47:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+477,2026-11-06,20:01:00,20:49:00,Teléfono,Coca Cola,Bebidas,3,5,Tarjeta,No
+477,2026-11-06,20:01:00,20:49:00,Teléfono,Bruschetta,Entradas,1,14,Tarjeta,No
+478,2026-11-06,20:06:00,20:27:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+478,2026-11-06,20:06:00,20:27:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+478,2026-11-06,20:06:00,20:27:00,Presencial,Coca Cola,Bebidas,3,5,Tarjeta,No
+479,2026-11-06,20:06:00,20:50:00,Teléfono,Tiramisú,Postres,1,12,Billetera digital,Sí
+479,2026-11-06,20:06:00,20:50:00,Teléfono,Inca Kola,Bebidas,2,5,Billetera digital,Sí
+480,2026-11-06,20:10:00,20:36:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+480,2026-11-06,20:10:00,20:36:00,Presencial,Bruschetta,Entradas,1,14,Billetera digital,No
+481,2026-11-06,20:19:00,20:48:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+481,2026-11-06,20:19:00,20:48:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+482,2026-11-06,20:39:00,20:55:00,Presencial,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+482,2026-11-06,20:39:00,20:55:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+482,2026-11-06,20:39:00,20:55:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+483,2026-11-06,21:16:00,21:38:00,Presencial,Tiramisú,Postres,3,12,Billetera digital,No
+483,2026-11-06,21:16:00,21:38:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+484,2026-11-06,21:24:00,21:56:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+485,2026-11-07,13:13:00,13:42:00,Presencial,Pizza Margarita,Pizzas,2,25,Billetera digital,No
+485,2026-11-07,13:13:00,13:42:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Billetera digital,No
+485,2026-11-07,13:13:00,13:42:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+485,2026-11-07,13:13:00,13:42:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+486,2026-11-07,13:16:00,13:32:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+486,2026-11-07,13:16:00,13:32:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+487,2026-11-07,13:20:00,13:35:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+487,2026-11-07,13:20:00,13:35:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+487,2026-11-07,13:20:00,13:35:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+488,2026-11-07,13:30:00,13:53:00,Presencial,Inca Kola,Bebidas,2,5,Tarjeta,No
+488,2026-11-07,13:30:00,13:53:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+488,2026-11-07,13:30:00,13:53:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+489,2026-11-07,13:42:00,14:07:00,WhatsApp,Pan al Ajo,Entradas,2,8,Billetera digital,No
+489,2026-11-07,13:42:00,14:07:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+489,2026-11-07,13:42:00,14:07:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+490,2026-11-07,13:52:00,14:47:00,WhatsApp,Pan al Ajo,Entradas,2,8,Tarjeta,No
+490,2026-11-07,13:52:00,14:47:00,WhatsApp,Inca Kola,Bebidas,3,5,Tarjeta,No
+491,2026-11-07,13:56:00,14:11:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+491,2026-11-07,13:56:00,14:11:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+492,2026-11-07,14:06:00,14:33:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+492,2026-11-07,14:06:00,14:33:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+493,2026-11-07,14:11:00,15:03:00,WhatsApp,Coca Cola,Bebidas,2,5,Efectivo,No
+493,2026-11-07,14:11:00,15:03:00,WhatsApp,Bruschetta,Entradas,3,14,Efectivo,No
+493,2026-11-07,14:11:00,15:03:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Efectivo,No
+494,2026-11-07,14:34:00,15:17:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+494,2026-11-07,14:34:00,15:17:00,WhatsApp,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+494,2026-11-07,14:34:00,15:17:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+495,2026-11-07,14:51:00,15:22:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+495,2026-11-07,14:51:00,15:22:00,WhatsApp,Tiramisú,Postres,1,12,Tarjeta,No
+495,2026-11-07,14:51:00,15:22:00,WhatsApp,Bruschetta,Entradas,1,14,Tarjeta,No
+495,2026-11-07,14:51:00,15:22:00,WhatsApp,Coca Cola,Bebidas,2,5,Tarjeta,No
+496,2026-11-07,15:28:00,15:53:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+496,2026-11-07,15:28:00,15:53:00,Presencial,Pan al Ajo,Entradas,2,8,Efectivo,No
+497,2026-11-07,16:21:00,16:44:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+497,2026-11-07,16:21:00,16:44:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+498,2026-11-07,17:00:00,17:28:00,WhatsApp,Tiramisú,Postres,2,12,Billetera digital,No
+499,2026-11-07,17:12:00,17:52:00,WhatsApp,Fettuccine Alfredo,Pastas,3,32,Tarjeta,No
+499,2026-11-07,17:12:00,17:52:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+499,2026-11-07,17:12:00,17:52:00,WhatsApp,Pan al Ajo,Entradas,1,8,Tarjeta,No
+500,2026-11-07,17:41:00,18:09:00,Teléfono,Pan al Ajo,Entradas,3,8,Efectivo,No
+500,2026-11-07,17:41:00,18:09:00,Teléfono,Pizza Margarita,Pizzas,2,25,Efectivo,No
+501,2026-11-07,17:47:00,18:18:00,WhatsApp,Coca Cola,Bebidas,1,5,Tarjeta,No
+501,2026-11-07,17:47:00,18:18:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+501,2026-11-07,17:47:00,18:18:00,WhatsApp,Tiramisú,Postres,2,12,Tarjeta,No
+501,2026-11-07,17:47:00,18:18:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,No
+502,2026-11-07,19:09:00,19:42:00,WhatsApp,Tiramisú,Postres,2,12,Billetera digital,No
+502,2026-11-07,19:09:00,19:42:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Billetera digital,No
+502,2026-11-07,19:09:00,19:42:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+503,2026-11-07,19:26:00,19:39:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+503,2026-11-07,19:26:00,19:39:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+504,2026-11-07,19:36:00,20:02:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+505,2026-11-07,19:40:00,20:08:00,Presencial,Inca Kola,Bebidas,2,5,Efectivo,No
+505,2026-11-07,19:40:00,20:08:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+505,2026-11-07,19:40:00,20:08:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+506,2026-11-07,19:45:00,20:07:00,Presencial,Inca Kola,Bebidas,3,5,Efectivo,No
+506,2026-11-07,19:45:00,20:07:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+507,2026-11-07,19:48:00,20:18:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+507,2026-11-07,19:48:00,20:18:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+508,2026-11-07,19:55:00,20:25:00,Teléfono,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+508,2026-11-07,19:55:00,20:25:00,Teléfono,Tiramisú,Postres,2,12,Tarjeta,No
+508,2026-11-07,19:55:00,20:25:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+508,2026-11-07,19:55:00,20:25:00,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+509,2026-11-07,19:57:00,20:18:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+509,2026-11-07,19:57:00,20:18:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+510,2026-11-07,20:00:00,20:24:00,Presencial,Lasagna de Carne,Pastas,2,34,Tarjeta,Sí
+511,2026-11-07,20:01:00,20:17:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+512,2026-11-07,20:04:00,20:28:00,Presencial,Lasagna de Carne,Pastas,3,34,Billetera digital,No
+512,2026-11-07,20:04:00,20:28:00,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+513,2026-11-07,20:06:00,20:35:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+513,2026-11-07,20:06:00,20:35:00,WhatsApp,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+513,2026-11-07,20:06:00,20:35:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+514,2026-11-07,20:14:00,20:36:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+514,2026-11-07,20:14:00,20:36:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+515,2026-11-07,20:15:00,20:42:00,Presencial,Bruschetta,Entradas,3,14,Efectivo,No
+515,2026-11-07,20:15:00,20:42:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+515,2026-11-07,20:15:00,20:42:00,Presencial,Tiramisú,Postres,3,12,Efectivo,No
+516,2026-11-07,20:29:00,20:45:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+516,2026-11-07,20:29:00,20:45:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+516,2026-11-07,20:29:00,20:45:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+516,2026-11-07,20:29:00,20:45:00,Presencial,Tiramisú,Postres,3,12,Tarjeta,No
+517,2026-11-07,20:53:00,21:17:00,Presencial,Bruschetta,Entradas,3,14,Billetera digital,No
+518,2026-11-07,20:57:00,21:29:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+518,2026-11-07,20:57:00,21:29:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+518,2026-11-07,20:57:00,21:29:00,Presencial,Inca Kola,Bebidas,2,5,Efectivo,No
+519,2026-11-07,20:58:00,21:17:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+520,2026-11-07,21:16:00,21:36:00,Presencial,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+520,2026-11-07,21:16:00,21:36:00,Presencial,Tiramisú,Postres,2,12,Tarjeta,No
+520,2026-11-07,21:16:00,21:36:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+520,2026-11-07,21:16:00,21:36:00,Presencial,Inca Kola,Bebidas,2,5,Tarjeta,No
+521,2026-11-07,21:19:00,21:56:00,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+521,2026-11-07,21:19:00,21:56:00,Teléfono,Pan al Ajo,Entradas,1,8,Tarjeta,No
+521,2026-11-07,21:19:00,21:56:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+522,2026-11-07,21:34:00,21:50:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+523,2026-11-07,21:48:00,22:13:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+523,2026-11-07,21:48:00,22:13:00,Presencial,Inca Kola,Bebidas,2,5,Billetera digital,No
+524,2026-11-08,12:18:00,12:42:00,Presencial,Bruschetta,Entradas,3,14,Tarjeta,No
+524,2026-11-08,12:18:00,12:42:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+524,2026-11-08,12:18:00,12:42:00,Presencial,Limonada,Bebidas,1,8,Tarjeta,No
+525,2026-11-08,12:30:00,12:57:00,Presencial,Limonada,Bebidas,1,8,Efectivo,No
+525,2026-11-08,12:30:00,12:57:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+526,2026-11-08,13:49:00,14:18:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+526,2026-11-08,13:49:00,14:18:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+527,2026-11-08,13:49:00,14:28:00,Teléfono,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+527,2026-11-08,13:49:00,14:28:00,Teléfono,Coca Cola,Bebidas,2,5,Tarjeta,No
+528,2026-11-08,14:11:00,14:36:00,WhatsApp,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+528,2026-11-08,14:11:00,14:36:00,WhatsApp,Pan al Ajo,Entradas,2,8,Billetera digital,No
+529,2026-11-08,14:11:00,14:44:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+529,2026-11-08,14:11:00,14:44:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+530,2026-11-08,14:12:00,14:41:00,Presencial,Limonada,Bebidas,2,8,Billetera digital,No
+530,2026-11-08,14:12:00,14:41:00,Presencial,Inca Kola,Bebidas,2,5,Billetera digital,No
+531,2026-11-08,14:17:00,14:51:00,Teléfono,Pan al Ajo,Entradas,1,8,Billetera digital,No
+531,2026-11-08,14:17:00,14:51:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+532,2026-11-08,14:28:00,14:53:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+533,2026-11-08,14:35:00,15:16:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,Sí
+533,2026-11-08,14:35:00,15:16:00,Teléfono,Lasagna de Carne,Pastas,2,34,Tarjeta,Sí
+534,2026-11-08,14:38:00,15:07:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+534,2026-11-08,14:38:00,15:07:00,WhatsApp,Coca Cola,Bebidas,2,5,Billetera digital,No
+535,2026-11-08,14:45:00,15:27:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+535,2026-11-08,14:45:00,15:27:00,Teléfono,Tiramisú,Postres,1,12,Billetera digital,No
+535,2026-11-08,14:45:00,15:27:00,Teléfono,Limonada,Bebidas,3,8,Billetera digital,No
+535,2026-11-08,14:45:00,15:27:00,Teléfono,Pan al Ajo,Entradas,2,8,Billetera digital,No
+536,2026-11-08,14:46:00,15:09:00,Presencial,Limonada,Bebidas,1,8,Tarjeta,No
+536,2026-11-08,14:46:00,15:09:00,Presencial,Pizza Margarita,Pizzas,3,25,Tarjeta,No
+536,2026-11-08,14:46:00,15:09:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+537,2026-11-08,14:48:00,15:12:00,Presencial,Bruschetta,Entradas,2,14,Efectivo,No
+537,2026-11-08,14:48:00,15:12:00,Presencial,Limonada,Bebidas,2,8,Efectivo,No
+537,2026-11-08,14:48:00,15:12:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+538,2026-11-08,14:59:00,15:36:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,Sí
+538,2026-11-08,14:59:00,15:36:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,Sí
+539,2026-11-08,18:52:00,19:34:00,Teléfono,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+539,2026-11-08,18:52:00,19:34:00,Teléfono,Limonada,Bebidas,1,8,Tarjeta,No
+539,2026-11-08,18:52:00,19:34:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+540,2026-11-08,19:08:00,19:37:00,Teléfono,Pan al Ajo,Entradas,1,8,Efectivo,No
+540,2026-11-08,19:08:00,19:37:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+541,2026-11-08,19:23:00,19:52:00,Presencial,Tiramisú,Postres,1,12,Tarjeta,No
+541,2026-11-08,19:23:00,19:52:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+542,2026-11-08,19:30:00,20:05:00,Teléfono,Tiramisú,Postres,2,12,Tarjeta,No
+543,2026-11-08,19:45:00,20:29:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+543,2026-11-08,19:45:00,20:29:00,WhatsApp,Tiramisú,Postres,1,12,Efectivo,No
+544,2026-11-08,19:46:00,20:07:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+544,2026-11-08,19:46:00,20:07:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+545,2026-11-08,19:47:00,20:21:00,Presencial,Tiramisú,Postres,1,12,Tarjeta,No
+546,2026-11-08,19:54:00,20:20:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+546,2026-11-08,19:54:00,20:20:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,No
+546,2026-11-08,19:54:00,20:20:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+547,2026-11-08,19:59:00,20:24:00,WhatsApp,Pan al Ajo,Entradas,1,8,Efectivo,No
+547,2026-11-08,19:59:00,20:24:00,WhatsApp,Tiramisú,Postres,1,12,Efectivo,No
+547,2026-11-08,19:59:00,20:24:00,WhatsApp,Bruschetta,Entradas,2,14,Efectivo,No
+548,2026-11-08,20:05:00,20:38:00,WhatsApp,Pizza Margarita,Pizzas,2,25,Tarjeta,Sí
+549,2026-11-08,20:05:00,20:27:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+549,2026-11-08,20:05:00,20:27:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+550,2026-11-08,20:16:00,20:36:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Billetera digital,No
+550,2026-11-08,20:16:00,20:36:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+551,2026-11-08,20:17:00,20:42:00,Presencial,Lasagna de Carne,Pastas,2,34,Tarjeta,No
+551,2026-11-08,20:17:00,20:42:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+551,2026-11-08,20:17:00,20:42:00,Presencial,Pizza Cuatro Quesos,Pizzas,3,32,Tarjeta,No
+552,2026-11-08,20:17:00,20:48:00,WhatsApp,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+553,2026-11-08,20:21:00,20:50:00,Presencial,Panna Cotta,Postres,1,11,Tarjeta,No
+554,2026-11-08,20:41:00,21:27:00,Teléfono,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+555,2026-11-08,20:44:00,21:02:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+555,2026-11-08,20:44:00,21:02:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+556,2026-11-08,20:48:00,21:16:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,Sí
+556,2026-11-08,20:48:00,21:16:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,Sí
+556,2026-11-08,20:48:00,21:16:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,Sí
+557,2026-11-08,21:03:00,21:30:00,Presencial,Inca Kola,Bebidas,2,5,Efectivo,No
+558,2026-11-08,21:06:00,21:35:00,Presencial,Coca Cola,Bebidas,3,5,Billetera digital,No
+558,2026-11-08,21:06:00,21:35:00,Presencial,Fettuccine Alfredo,Pastas,3,32,Billetera digital,No
+559,2026-11-08,21:18:00,21:46:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+559,2026-11-08,21:18:00,21:46:00,Presencial,Bruschetta,Entradas,2,14,Efectivo,No
+560,2026-11-09,13:05:00,13:36:00,Presencial,Tiramisú,Postres,1,12,Tarjeta,No
+560,2026-11-09,13:05:00,13:36:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+561,2026-11-09,13:12:00,13:41:00,Teléfono,Pizza Margarita,Pizzas,2,25,Efectivo,No
+561,2026-11-09,13:12:00,13:41:00,Teléfono,Pan al Ajo,Entradas,1,8,Efectivo,No
+562,2026-11-09,13:24:00,13:54:00,Presencial,Bruschetta,Entradas,1,14,Efectivo,No
+562,2026-11-09,13:24:00,13:54:00,Presencial,Lasagna de Carne,Pastas,2,34,Efectivo,No
+562,2026-11-09,13:24:00,13:54:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+563,2026-11-09,13:45:00,14:22:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+563,2026-11-09,13:45:00,14:22:00,Teléfono,Pan al Ajo,Entradas,1,8,Tarjeta,No
+563,2026-11-09,13:45:00,14:22:00,Teléfono,Inca Kola,Bebidas,2,5,Tarjeta,No
+563,2026-11-09,13:45:00,14:22:00,Teléfono,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+564,2026-11-09,14:46:00,15:19:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+564,2026-11-09,14:46:00,15:19:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+564,2026-11-09,14:46:00,15:19:00,Presencial,Tiramisú,Postres,1,12,Tarjeta,No
+565,2026-11-09,14:49:00,15:11:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+565,2026-11-09,14:49:00,15:11:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+566,2026-11-09,15:18:00,15:34:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+567,2026-11-09,15:36:00,15:52:00,Presencial,Bruschetta,Entradas,2,14,Efectivo,No
+567,2026-11-09,15:36:00,15:52:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+567,2026-11-09,15:36:00,15:52:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+568,2026-11-09,16:17:00,16:47:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+568,2026-11-09,16:17:00,16:47:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+569,2026-11-09,16:19:00,16:46:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+569,2026-11-09,16:19:00,16:46:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+569,2026-11-09,16:19:00,16:46:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+569,2026-11-09,16:19:00,16:46:00,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+570,2026-11-09,17:55:00,18:08:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+570,2026-11-09,17:55:00,18:08:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+570,2026-11-09,17:55:00,18:08:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Billetera digital,No
+571,2026-11-09,18:15:00,18:47:00,Teléfono,Limonada,Bebidas,1,8,Tarjeta,No
+571,2026-11-09,18:15:00,18:47:00,Teléfono,Inca Kola,Bebidas,1,5,Tarjeta,No
+571,2026-11-09,18:15:00,18:47:00,Teléfono,Pizza Pepperoni,Pizzas,3,28,Tarjeta,No
+572,2026-11-09,19:03:00,19:16:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+572,2026-11-09,19:03:00,19:16:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+572,2026-11-09,19:03:00,19:16:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+573,2026-11-09,19:20:00,19:43:00,Presencial,Limonada,Bebidas,2,8,Efectivo,No
+573,2026-11-09,19:20:00,19:43:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+573,2026-11-09,19:20:00,19:43:00,Presencial,Pizza Cuatro Quesos,Pizzas,3,32,Efectivo,No
+574,2026-11-09,19:31:00,20:12:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+575,2026-11-09,20:12:00,20:30:00,Presencial,Pizza Pepperoni,Pizzas,3,28,Billetera digital,No
+575,2026-11-09,20:12:00,20:30:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+576,2026-11-09,20:22:00,20:44:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+576,2026-11-09,20:22:00,20:44:00,Teléfono,Inca Kola,Bebidas,1,5,Billetera digital,No
+577,2026-11-09,20:36:00,20:57:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+577,2026-11-09,20:36:00,20:57:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+578,2026-11-09,21:48:00,22:09:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+579,2026-11-09,21:48:00,22:16:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+579,2026-11-09,21:48:00,22:16:00,Teléfono,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+580,2026-11-10,12:51:00,13:27:00,WhatsApp,Coca Cola,Bebidas,2,5,Efectivo,No
+580,2026-11-10,12:51:00,13:27:00,WhatsApp,Tiramisú,Postres,1,12,Efectivo,No
+581,2026-11-10,13:12:00,13:58:00,WhatsApp,Pan al Ajo,Entradas,2,8,Billetera digital,No
+581,2026-11-10,13:12:00,13:58:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+582,2026-11-10,13:13:00,13:42:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+582,2026-11-10,13:13:00,13:42:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+583,2026-11-10,13:14:00,13:49:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,Sí
+583,2026-11-10,13:14:00,13:49:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,Sí
+583,2026-11-10,13:14:00,13:49:00,Presencial,Tiramisú,Postres,2,12,Billetera digital,Sí
+583,2026-11-10,13:14:00,13:49:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Billetera digital,Sí
+584,2026-11-10,13:15:00,13:38:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+584,2026-11-10,13:15:00,13:38:00,Presencial,Pan al Ajo,Entradas,2,8,Efectivo,No
+584,2026-11-10,13:15:00,13:38:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+584,2026-11-10,13:15:00,13:38:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+585,2026-11-10,13:31:00,13:57:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+585,2026-11-10,13:31:00,13:57:00,Presencial,Pizza Margarita,Pizzas,3,25,Billetera digital,No
+586,2026-11-10,13:56:00,14:24:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+586,2026-11-10,13:56:00,14:24:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+586,2026-11-10,13:56:00,14:24:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+586,2026-11-10,13:56:00,14:24:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+587,2026-11-10,14:03:00,14:33:00,Presencial,Limonada,Bebidas,1,8,Tarjeta,No
+587,2026-11-10,14:03:00,14:33:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+588,2026-11-10,17:02:00,17:50:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Billetera digital,No
+588,2026-11-10,17:02:00,17:50:00,WhatsApp,Limonada,Bebidas,1,8,Billetera digital,No
+588,2026-11-10,17:02:00,17:50:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+589,2026-11-10,18:32:00,18:57:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+589,2026-11-10,18:32:00,18:57:00,Presencial,Tiramisú,Postres,2,12,Tarjeta,No
+589,2026-11-10,18:32:00,18:57:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+589,2026-11-10,18:32:00,18:57:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+590,2026-11-10,18:57:00,19:13:00,Presencial,Coca Cola,Bebidas,3,5,Tarjeta,No
+590,2026-11-10,18:57:00,19:13:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+590,2026-11-10,18:57:00,19:13:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+591,2026-11-10,19:01:00,19:25:00,Teléfono,Inca Kola,Bebidas,1,5,Efectivo,No
+591,2026-11-10,19:01:00,19:25:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+592,2026-11-10,19:08:00,19:36:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+592,2026-11-10,19:08:00,19:36:00,WhatsApp,Lasagna de Carne,Pastas,3,34,Billetera digital,No
+593,2026-11-10,19:34:00,19:56:00,Presencial,Tiramisú,Postres,1,12,Efectivo,No
+593,2026-11-10,19:34:00,19:56:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+593,2026-11-10,19:34:00,19:56:00,Presencial,Panna Cotta,Postres,1,11,Efectivo,No
+594,2026-11-10,19:38:00,19:54:00,Teléfono,Pan al Ajo,Entradas,2,8,Billetera digital,No
+594,2026-11-10,19:38:00,19:54:00,Teléfono,Coca Cola,Bebidas,1,5,Billetera digital,No
+594,2026-11-10,19:38:00,19:54:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+594,2026-11-10,19:38:00,19:54:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+595,2026-11-10,19:52:00,20:41:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+595,2026-11-10,19:52:00,20:41:00,WhatsApp,Panna Cotta,Postres,2,11,Billetera digital,No
+595,2026-11-10,19:52:00,20:41:00,WhatsApp,Limonada,Bebidas,1,8,Billetera digital,No
+595,2026-11-10,19:52:00,20:41:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+596,2026-11-10,20:10:00,20:41:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+596,2026-11-10,20:10:00,20:41:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+597,2026-11-10,20:13:00,20:38:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+597,2026-11-10,20:13:00,20:38:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+598,2026-11-10,20:14:00,20:52:00,WhatsApp,Coca Cola,Bebidas,2,5,Billetera digital,No
+598,2026-11-10,20:14:00,20:52:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,2,32,Billetera digital,No
+599,2026-11-10,20:17:00,20:38:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+599,2026-11-10,20:17:00,20:38:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+600,2026-11-10,20:34:00,21:10:00,Teléfono,Coca Cola,Bebidas,2,5,Tarjeta,No
+600,2026-11-10,20:34:00,21:10:00,Teléfono,Limonada,Bebidas,1,8,Tarjeta,No
+600,2026-11-10,20:34:00,21:10:00,Teléfono,Pizza Margarita,Pizzas,3,25,Tarjeta,No
+601,2026-11-10,20:57:00,21:26:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+602,2026-11-11,13:00:00,13:26:00,WhatsApp,Pan al Ajo,Entradas,3,8,Tarjeta,No
+603,2026-11-11,13:08:00,13:42:00,Teléfono,Coca Cola,Bebidas,1,5,Efectivo,No
+603,2026-11-11,13:08:00,13:42:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+603,2026-11-11,13:08:00,13:42:00,Teléfono,Panna Cotta,Postres,3,11,Efectivo,No
+604,2026-11-11,13:35:00,14:16:00,WhatsApp,Tiramisú,Postres,1,12,Efectivo,Sí
+604,2026-11-11,13:35:00,14:16:00,WhatsApp,Pizza Pepperoni,Pizzas,1,28,Efectivo,Sí
+604,2026-11-11,13:35:00,14:16:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,Sí
+604,2026-11-11,13:35:00,14:16:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Efectivo,Sí
+605,2026-11-11,13:56:00,14:24:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+605,2026-11-11,13:56:00,14:24:00,Teléfono,Inca Kola,Bebidas,1,5,Efectivo,No
+605,2026-11-11,13:56:00,14:24:00,Teléfono,Bruschetta,Entradas,1,14,Efectivo,No
+606,2026-11-11,13:59:00,14:16:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+607,2026-11-11,14:21:00,14:35:00,Presencial,Inca Kola,Bebidas,3,5,Billetera digital,No
+607,2026-11-11,14:21:00,14:35:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+607,2026-11-11,14:21:00,14:35:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+607,2026-11-11,14:21:00,14:35:00,Presencial,Bruschetta,Entradas,3,14,Billetera digital,No
+608,2026-11-11,14:27:00,14:57:00,Presencial,Panna Cotta,Postres,2,11,Billetera digital,No
+608,2026-11-11,14:27:00,14:57:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+608,2026-11-11,14:27:00,14:57:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Billetera digital,No
+608,2026-11-11,14:27:00,14:57:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+609,2026-11-11,14:35:00,14:57:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+609,2026-11-11,14:35:00,14:57:00,Presencial,Lasagna de Carne,Pastas,1,34,Efectivo,No
+610,2026-11-11,14:45:00,15:09:00,Presencial,Pizza Cuatro Quesos,Pizzas,3,32,Efectivo,No
+611,2026-11-11,14:57:00,15:22:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+612,2026-11-11,17:24:00,17:57:00,Teléfono,Lasagna de Carne,Pastas,1,34,Efectivo,No
+613,2026-11-11,18:52:00,19:28:00,WhatsApp,Bruschetta,Entradas,3,14,Efectivo,No
+613,2026-11-11,18:52:00,19:28:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+614,2026-11-11,19:14:00,19:36:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+615,2026-11-11,19:38:00,20:08:00,Teléfono,Fettuccine Alfredo,Pastas,3,32,Tarjeta,No
+615,2026-11-11,19:38:00,20:08:00,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+615,2026-11-11,19:38:00,20:08:00,Teléfono,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+616,2026-11-11,19:56:00,20:23:00,Presencial,Limonada,Bebidas,1,8,Efectivo,No
+617,2026-11-11,20:15:00,20:46:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+618,2026-11-11,20:19:00,20:47:00,WhatsApp,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+618,2026-11-11,20:19:00,20:47:00,WhatsApp,Bruschetta,Entradas,1,14,Efectivo,No
+619,2026-11-11,20:22:00,20:53:00,Teléfono,Pizza Cuatro Quesos,Pizzas,2,32,Efectivo,No
+619,2026-11-11,20:22:00,20:53:00,Teléfono,Bruschetta,Entradas,3,14,Efectivo,No
+620,2026-11-11,20:24:00,20:57:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+620,2026-11-11,20:24:00,20:57:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+621,2026-11-11,20:28:00,21:11:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+621,2026-11-11,20:28:00,21:11:00,WhatsApp,Pan al Ajo,Entradas,1,8,Tarjeta,No
+621,2026-11-11,20:28:00,21:11:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+622,2026-11-11,20:42:00,21:07:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+622,2026-11-11,20:42:00,21:07:00,Teléfono,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+622,2026-11-11,20:42:00,21:07:00,Teléfono,Pizza Margarita,Pizzas,2,25,Billetera digital,No
+623,2026-11-11,20:46:00,21:14:00,Presencial,Bruschetta,Entradas,2,14,Tarjeta,Sí
+623,2026-11-11,20:46:00,21:14:00,Presencial,Pizza Margarita,Pizzas,3,25,Tarjeta,Sí
+624,2026-11-12,12:18:00,12:47:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+625,2026-11-12,13:19:00,14:04:00,Teléfono,Pan al Ajo,Entradas,1,8,Efectivo,No
+625,2026-11-12,13:19:00,14:04:00,Teléfono,Coca Cola,Bebidas,2,5,Efectivo,No
+625,2026-11-12,13:19:00,14:04:00,Teléfono,Bruschetta,Entradas,2,14,Efectivo,No
+626,2026-11-12,13:41:00,14:00:00,Presencial,Tiramisú,Postres,2,12,Efectivo,No
+626,2026-11-12,13:41:00,14:00:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+627,2026-11-12,13:49:00,14:07:00,Presencial,Tiramisú,Postres,1,12,Billetera digital,No
+627,2026-11-12,13:49:00,14:07:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+628,2026-11-12,13:56:00,14:30:00,Presencial,Tiramisú,Postres,2,12,Efectivo,No
+629,2026-11-12,13:58:00,14:23:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+629,2026-11-12,13:58:00,14:23:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+629,2026-11-12,13:58:00,14:23:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+630,2026-11-12,14:03:00,14:41:00,WhatsApp,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+631,2026-11-12,14:11:00,14:34:00,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+631,2026-11-12,14:11:00,14:34:00,Presencial,Tiramisú,Postres,3,12,Billetera digital,No
+632,2026-11-12,14:11:00,14:26:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+633,2026-11-12,14:27:00,14:46:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+634,2026-11-12,14:58:00,15:15:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+634,2026-11-12,14:58:00,15:15:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+635,2026-11-12,16:13:00,17:00:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,Sí
+636,2026-11-12,19:06:00,19:27:00,Presencial,Pan al Ajo,Entradas,2,8,Efectivo,No
+636,2026-11-12,19:06:00,19:27:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+636,2026-11-12,19:06:00,19:27:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+637,2026-11-12,19:28:00,20:02:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Efectivo,No
+637,2026-11-12,19:28:00,20:02:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+637,2026-11-12,19:28:00,20:02:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+638,2026-11-12,19:35:00,19:58:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+638,2026-11-12,19:35:00,19:58:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+639,2026-11-12,19:45:00,20:15:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+639,2026-11-12,19:45:00,20:15:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+639,2026-11-12,19:45:00,20:15:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+639,2026-11-12,19:45:00,20:15:00,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+640,2026-11-12,20:01:00,20:39:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+641,2026-11-12,20:24:00,20:38:00,Presencial,Fettuccine Alfredo,Pastas,3,32,Efectivo,No
+642,2026-11-12,20:32:00,20:58:00,Teléfono,Pizza Margarita,Pizzas,2,25,Billetera digital,Sí
+643,2026-11-12,20:43:00,20:57:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+643,2026-11-12,20:43:00,20:57:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Billetera digital,No
+643,2026-11-12,20:43:00,20:57:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+644,2026-11-12,20:45:00,21:21:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+645,2026-11-12,21:43:00,22:09:00,Teléfono,Limonada,Bebidas,3,8,Billetera digital,No
+646,2026-11-13,12:32:00,12:53:00,Presencial,Tiramisú,Postres,1,12,Tarjeta,No
+646,2026-11-13,12:32:00,12:53:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+646,2026-11-13,12:32:00,12:53:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+647,2026-11-13,12:36:00,13:06:00,Presencial,Bruschetta,Entradas,1,14,Billetera digital,No
+647,2026-11-13,12:36:00,13:06:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+647,2026-11-13,12:36:00,13:06:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+648,2026-11-13,12:48:00,13:25:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+648,2026-11-13,12:48:00,13:25:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+648,2026-11-13,12:48:00,13:25:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+648,2026-11-13,12:48:00,13:25:00,Presencial,Tiramisú,Postres,3,12,Tarjeta,No
+649,2026-11-13,13:01:00,13:24:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+649,2026-11-13,13:01:00,13:24:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+649,2026-11-13,13:01:00,13:24:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+650,2026-11-13,13:16:00,13:34:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,No
+650,2026-11-13,13:16:00,13:34:00,Presencial,Pizza Margarita,Pizzas,3,25,Efectivo,No
+651,2026-11-13,13:17:00,13:34:00,Presencial,Pan al Ajo,Entradas,2,8,Tarjeta,No
+651,2026-11-13,13:17:00,13:34:00,Presencial,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+651,2026-11-13,13:17:00,13:34:00,Presencial,Inca Kola,Bebidas,2,5,Tarjeta,No
+652,2026-11-13,13:26:00,13:51:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+652,2026-11-13,13:26:00,13:51:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+653,2026-11-13,13:26:00,13:50:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+654,2026-11-13,13:27:00,13:52:00,Presencial,Tiramisú,Postres,2,12,Billetera digital,No
+654,2026-11-13,13:27:00,13:52:00,Presencial,Bruschetta,Entradas,3,14,Billetera digital,No
+654,2026-11-13,13:27:00,13:52:00,Presencial,Fettuccine Alfredo,Pastas,3,32,Billetera digital,No
+655,2026-11-13,13:30:00,14:02:00,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+655,2026-11-13,13:30:00,14:02:00,Presencial,Pizza Margarita,Pizzas,2,25,Billetera digital,No
+655,2026-11-13,13:30:00,14:02:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+656,2026-11-13,13:52:00,14:12:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+657,2026-11-13,14:01:00,14:14:00,Presencial,Limonada,Bebidas,2,8,Tarjeta,No
+657,2026-11-13,14:01:00,14:14:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+657,2026-11-13,14:01:00,14:14:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+658,2026-11-13,14:08:00,14:38:00,Teléfono,Coca Cola,Bebidas,1,5,Billetera digital,No
+658,2026-11-13,14:08:00,14:38:00,Teléfono,Pan al Ajo,Entradas,1,8,Billetera digital,No
+659,2026-11-13,14:23:00,14:47:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+659,2026-11-13,14:23:00,14:47:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+659,2026-11-13,14:23:00,14:47:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Tarjeta,No
+660,2026-11-13,15:07:00,15:42:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+660,2026-11-13,15:07:00,15:42:00,Presencial,Pan al Ajo,Entradas,2,8,Tarjeta,No
+661,2026-11-13,15:33:00,16:10:00,WhatsApp,Pizza Margarita,Pizzas,2,25,Tarjeta,No
+661,2026-11-13,15:33:00,16:10:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,3,30,Tarjeta,No
+662,2026-11-13,16:02:00,16:42:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+663,2026-11-13,18:48:00,19:13:00,Teléfono,Pan al Ajo,Entradas,3,8,Efectivo,No
+664,2026-11-13,18:48:00,19:19:00,Teléfono,Tiramisú,Postres,2,12,Billetera digital,No
+664,2026-11-13,18:48:00,19:19:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,No
+665,2026-11-13,19:05:00,19:29:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+666,2026-11-13,19:15:00,19:47:00,Teléfono,Limonada,Bebidas,2,8,Billetera digital,No
+667,2026-11-13,19:38:00,20:26:00,WhatsApp,Coca Cola,Bebidas,1,5,Efectivo,Sí
+667,2026-11-13,19:38:00,20:26:00,WhatsApp,Inca Kola,Bebidas,1,5,Efectivo,Sí
+668,2026-11-13,20:10:00,20:29:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+668,2026-11-13,20:10:00,20:29:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+669,2026-11-13,20:19:00,21:03:00,Teléfono,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+669,2026-11-13,20:19:00,21:03:00,Teléfono,Inca Kola,Bebidas,1,5,Efectivo,No
+669,2026-11-13,20:19:00,21:03:00,Teléfono,Pizza Margarita,Pizzas,3,25,Efectivo,No
+670,2026-11-13,20:25:00,20:55:00,Presencial,Inca Kola,Bebidas,1,5,Billetera digital,No
+671,2026-11-13,20:25:00,20:38:00,Presencial,Limonada,Bebidas,1,8,Efectivo,No
+672,2026-11-13,20:26:00,20:53:00,Presencial,Bruschetta,Entradas,1,14,Efectivo,No
+672,2026-11-13,20:26:00,20:53:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+672,2026-11-13,20:26:00,20:53:00,Presencial,Tiramisú,Postres,1,12,Efectivo,No
+672,2026-11-13,20:26:00,20:53:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Efectivo,No
+673,2026-11-13,20:47:00,21:05:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Billetera digital,No
+673,2026-11-13,20:47:00,21:05:00,Presencial,Pan al Ajo,Entradas,3,8,Billetera digital,No
+674,2026-11-13,20:54:00,21:21:00,Presencial,Inca Kola,Bebidas,1,5,Tarjeta,No
+674,2026-11-13,20:54:00,21:21:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+674,2026-11-13,20:54:00,21:21:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+675,2026-11-13,21:16:00,21:48:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+675,2026-11-13,21:16:00,21:48:00,WhatsApp,Pan al Ajo,Entradas,1,8,Efectivo,No
+676,2026-11-14,12:18:00,12:56:00,WhatsApp,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+676,2026-11-14,12:18:00,12:56:00,WhatsApp,Pan al Ajo,Entradas,2,8,Tarjeta,No
+676,2026-11-14,12:18:00,12:56:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+677,2026-11-14,12:47:00,13:19:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+677,2026-11-14,12:47:00,13:19:00,Teléfono,Lasagna de Carne,Pastas,1,34,Efectivo,No
+678,2026-11-14,12:51:00,13:48:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Efectivo,Sí
+678,2026-11-14,12:51:00,13:48:00,WhatsApp,Fettuccine Alfredo,Pastas,2,32,Efectivo,Sí
+679,2026-11-14,13:49:00,14:22:00,WhatsApp,Pan al Ajo,Entradas,3,8,Billetera digital,No
+680,2026-11-14,13:59:00,14:32:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+680,2026-11-14,13:59:00,14:32:00,Presencial,Fettuccine Alfredo,Pastas,3,32,Efectivo,No
+680,2026-11-14,13:59:00,14:32:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+681,2026-11-14,14:07:00,14:35:00,WhatsApp,Bruschetta,Entradas,1,14,Billetera digital,No
+681,2026-11-14,14:07:00,14:35:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+682,2026-11-14,14:09:00,14:44:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+683,2026-11-14,14:10:00,14:42:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+683,2026-11-14,14:10:00,14:42:00,Presencial,Lasagna de Carne,Pastas,1,34,Efectivo,No
+684,2026-11-14,14:20:00,15:08:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Efectivo,Sí
+684,2026-11-14,14:20:00,15:08:00,WhatsApp,Inca Kola,Bebidas,1,5,Efectivo,Sí
+685,2026-11-14,14:21:00,15:04:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,Sí
+685,2026-11-14,14:21:00,15:04:00,WhatsApp,Inca Kola,Bebidas,2,5,Tarjeta,Sí
+685,2026-11-14,14:21:00,15:04:00,WhatsApp,Limonada,Bebidas,2,8,Tarjeta,Sí
+686,2026-11-14,14:23:00,14:47:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+687,2026-11-14,14:29:00,14:59:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+687,2026-11-14,14:29:00,14:59:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+687,2026-11-14,14:29:00,14:59:00,Presencial,Coca Cola,Bebidas,2,5,Tarjeta,No
+688,2026-11-14,14:30:00,14:46:00,Presencial,Pizza Margarita,Pizzas,1,25,Efectivo,No
+688,2026-11-14,14:30:00,14:46:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+688,2026-11-14,14:30:00,14:46:00,Presencial,Limonada,Bebidas,1,8,Efectivo,No
+689,2026-11-14,14:32:00,14:49:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+689,2026-11-14,14:32:00,14:49:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+690,2026-11-14,14:39:00,15:09:00,Teléfono,Bruschetta,Entradas,1,14,Tarjeta,No
+690,2026-11-14,14:39:00,15:09:00,Teléfono,Pizza Margarita,Pizzas,3,25,Tarjeta,No
+690,2026-11-14,14:39:00,15:09:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Tarjeta,No
+690,2026-11-14,14:39:00,15:09:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+691,2026-11-14,14:40:00,15:04:00,Teléfono,Pizza Margarita,Pizzas,2,25,Billetera digital,No
+692,2026-11-14,14:40:00,15:03:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+693,2026-11-14,14:44:00,15:13:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+693,2026-11-14,14:44:00,15:13:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+694,2026-11-14,14:45:00,15:11:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+694,2026-11-14,14:45:00,15:11:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+695,2026-11-14,14:59:00,15:41:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+696,2026-11-14,15:16:00,15:38:00,Teléfono,Fettuccine Alfredo,Pastas,2,32,Tarjeta,No
+696,2026-11-14,15:16:00,15:38:00,Teléfono,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,No
+697,2026-11-14,15:35:00,15:54:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Billetera digital,No
+697,2026-11-14,15:35:00,15:54:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+698,2026-11-14,16:00:00,16:29:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+698,2026-11-14,16:00:00,16:29:00,Presencial,Limonada,Bebidas,1,8,Tarjeta,No
+699,2026-11-14,16:08:00,16:57:00,Teléfono,Pan al Ajo,Entradas,1,8,Billetera digital,Sí
+699,2026-11-14,16:08:00,16:57:00,Teléfono,Lasagna de Carne,Pastas,1,34,Billetera digital,Sí
+700,2026-11-14,16:58:00,17:18:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+700,2026-11-14,16:58:00,17:18:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+700,2026-11-14,16:58:00,17:18:00,Presencial,Inca Kola,Bebidas,2,5,Efectivo,No
+701,2026-11-14,17:14:00,17:40:00,Teléfono,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+701,2026-11-14,17:14:00,17:40:00,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+702,2026-11-14,17:37:00,17:53:00,Presencial,Inca Kola,Bebidas,3,5,Efectivo,No
+702,2026-11-14,17:37:00,17:53:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+703,2026-11-14,18:03:00,18:20:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+703,2026-11-14,18:03:00,18:20:00,Presencial,Inca Kola,Bebidas,3,5,Tarjeta,No
+703,2026-11-14,18:03:00,18:20:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+704,2026-11-14,19:05:00,19:47:00,Teléfono,Coca Cola,Bebidas,2,5,Tarjeta,No
+704,2026-11-14,19:05:00,19:47:00,Teléfono,Bruschetta,Entradas,2,14,Tarjeta,No
+705,2026-11-14,19:15:00,19:28:00,Presencial,Limonada,Bebidas,1,8,Tarjeta,No
+706,2026-11-14,20:03:00,20:30:00,Presencial,Inca Kola,Bebidas,2,5,Efectivo,No
+707,2026-11-14,20:04:00,20:30:00,Teléfono,Bruschetta,Entradas,1,14,Efectivo,No
+707,2026-11-14,20:04:00,20:30:00,Teléfono,Coca Cola,Bebidas,1,5,Efectivo,No
+707,2026-11-14,20:04:00,20:30:00,Teléfono,Inca Kola,Bebidas,2,5,Efectivo,No
+708,2026-11-14,20:09:00,20:39:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+708,2026-11-14,20:09:00,20:39:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+709,2026-11-14,20:17:00,20:45:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+709,2026-11-14,20:17:00,20:45:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+710,2026-11-14,20:36:00,21:11:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+710,2026-11-14,20:36:00,21:11:00,WhatsApp,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+710,2026-11-14,20:36:00,21:11:00,WhatsApp,Limonada,Bebidas,2,8,Billetera digital,No
+710,2026-11-14,20:36:00,21:11:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,No
+711,2026-11-14,21:01:00,21:14:00,Presencial,Inca Kola,Bebidas,3,5,Efectivo,No
+711,2026-11-14,21:01:00,21:14:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Efectivo,No
+711,2026-11-14,21:01:00,21:14:00,Presencial,Pizza Cuatro Quesos,Pizzas,2,32,Efectivo,No
+712,2026-11-14,21:02:00,21:19:00,Presencial,Bruschetta,Entradas,1,14,Billetera digital,No
+712,2026-11-14,21:02:00,21:19:00,Presencial,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+712,2026-11-14,21:02:00,21:19:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+713,2026-11-14,21:06:00,21:37:00,WhatsApp,Pan al Ajo,Entradas,1,8,Tarjeta,No
+713,2026-11-14,21:06:00,21:37:00,WhatsApp,Limonada,Bebidas,3,8,Tarjeta,No
+714,2026-11-14,21:48:00,22:33:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,No
+714,2026-11-14,21:48:00,22:33:00,WhatsApp,Tiramisú,Postres,2,12,Billetera digital,No
+715,2026-11-15,12:37:00,13:07:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+715,2026-11-15,12:37:00,13:07:00,Presencial,Coca Cola,Bebidas,2,5,Billetera digital,No
+715,2026-11-15,12:37:00,13:07:00,Presencial,Pan al Ajo,Entradas,1,8,Billetera digital,No
+715,2026-11-15,12:37:00,13:07:00,Presencial,Lasagna de Carne,Pastas,2,34,Billetera digital,No
+716,2026-11-15,12:47:00,13:10:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+716,2026-11-15,12:47:00,13:10:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+716,2026-11-15,12:47:00,13:10:00,Presencial,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,No
+716,2026-11-15,12:47:00,13:10:00,Presencial,Limonada,Bebidas,3,8,Tarjeta,No
+717,2026-11-15,12:57:00,13:36:00,Presencial,Coca Cola,Bebidas,1,5,Efectivo,Sí
+718,2026-11-15,13:10:00,13:56:00,Teléfono,Pan al Ajo,Entradas,1,8,Billetera digital,No
+718,2026-11-15,13:10:00,13:56:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Billetera digital,No
+719,2026-11-15,13:22:00,13:45:00,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+719,2026-11-15,13:22:00,13:45:00,Presencial,Inca Kola,Bebidas,2,5,Billetera digital,No
+719,2026-11-15,13:22:00,13:45:00,Presencial,Pan al Ajo,Entradas,3,8,Billetera digital,No
+720,2026-11-15,13:36:00,14:03:00,Presencial,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+720,2026-11-15,13:36:00,14:03:00,Presencial,Limonada,Bebidas,1,8,Efectivo,No
+721,2026-11-15,13:39:00,,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+721,2026-11-15,13:39:00,,Teléfono,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+722,2026-11-15,13:46:00,14:18:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+722,2026-11-15,13:46:00,14:18:00,Teléfono,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+723,2026-11-15,13:56:00,14:29:00,WhatsApp,Bruschetta,Entradas,2,14,Efectivo,No
+724,2026-11-15,14:17:00,14:54:00,Teléfono,Pizza Margarita,Pizzas,1,25,Billetera digital,No
+724,2026-11-15,14:17:00,14:54:00,Teléfono,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+724,2026-11-15,14:17:00,14:54:00,Teléfono,Limonada,Bebidas,1,8,Billetera digital,No
+725,2026-11-15,14:18:00,14:35:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+725,2026-11-15,14:18:00,14:35:00,Presencial,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+726,2026-11-15,14:20:00,14:51:00,Teléfono,Pizza Margarita,Pizzas,1,25,Efectivo,No
+726,2026-11-15,14:20:00,14:51:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Efectivo,No
+726,2026-11-15,14:20:00,14:51:00,Teléfono,Lasagna de Carne,Pastas,2,34,Efectivo,No
+727,2026-11-15,14:24:00,14:41:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Tarjeta,No
+727,2026-11-15,14:24:00,14:41:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+728,2026-11-15,14:29:00,14:56:00,Teléfono,Coca Cola,Bebidas,3,5,Billetera digital,No
+728,2026-11-15,14:29:00,14:56:00,Teléfono,Limonada,Bebidas,1,8,Billetera digital,No
+728,2026-11-15,14:29:00,14:56:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Billetera digital,No
+729,2026-11-15,14:41:00,15:17:00,Teléfono,Bruschetta,Entradas,1,14,Tarjeta,No
+729,2026-11-15,14:41:00,15:17:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+730,2026-11-15,14:48:00,15:15:00,Presencial,Limonada,Bebidas,1,8,Billetera digital,No
+730,2026-11-15,14:48:00,15:15:00,Presencial,Coca Cola,Bebidas,1,5,Billetera digital,No
+731,2026-11-15,14:55:00,15:18:00,Teléfono,Pizza Margarita,Pizzas,2,25,Efectivo,Sí
+731,2026-11-15,14:55:00,15:18:00,Teléfono,Tiramisú,Postres,1,12,Efectivo,Sí
+732,2026-11-15,15:23:00,15:39:00,Presencial,Inca Kola,Bebidas,1,5,Efectivo,No
+732,2026-11-15,15:23:00,15:39:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+733,2026-11-15,15:36:00,16:13:00,WhatsApp,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+734,2026-11-15,15:47:00,16:18:00,Teléfono,Pizza Pepperoni,Pizzas,2,28,Tarjeta,No
+735,2026-11-15,16:06:00,16:30:00,Presencial,Pan al Ajo,Entradas,2,8,Tarjeta,No
+736,2026-11-15,16:14:00,16:43:00,Teléfono,Coca Cola,Bebidas,1,5,Efectivo,No
+737,2026-11-15,16:37:00,17:05:00,Presencial,Fettuccine Alfredo,Pastas,2,32,Billetera digital,No
+738,2026-11-15,16:39:00,17:13:00,Teléfono,Pizza Margarita,Pizzas,1,25,Efectivo,No
+738,2026-11-15,16:39:00,17:13:00,Teléfono,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+738,2026-11-15,16:39:00,17:13:00,Teléfono,Inca Kola,Bebidas,1,5,Efectivo,No
+739,2026-11-15,17:08:00,17:29:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+739,2026-11-15,17:08:00,17:29:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+739,2026-11-15,17:08:00,17:29:00,Presencial,Pan al Ajo,Entradas,1,8,Efectivo,No
+740,2026-11-15,17:35:00,17:58:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+741,2026-11-15,17:52:00,18:39:00,WhatsApp,Lasagna de Carne,Pastas,1,34,Billetera digital,Sí
+742,2026-11-15,18:20:00,18:51:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Efectivo,No
+743,2026-11-15,18:53:00,19:08:00,Presencial,Lasagna de Carne,Pastas,1,34,Billetera digital,No
+744,2026-11-15,18:57:00,19:24:00,Presencial,Pizza Margarita,Pizzas,2,25,Efectivo,No
+744,2026-11-15,18:57:00,19:24:00,Presencial,Limonada,Bebidas,2,8,Efectivo,No
+745,2026-11-15,19:04:00,19:42:00,Presencial,Tiramisú,Postres,1,12,Tarjeta,Sí
+745,2026-11-15,19:04:00,19:42:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,Sí
+746,2026-11-15,19:16:00,19:51:00,Teléfono,Coca Cola,Bebidas,2,5,Efectivo,No
+746,2026-11-15,19:16:00,19:51:00,Teléfono,Inca Kola,Bebidas,1,5,Efectivo,No
+747,2026-11-15,19:24:00,19:45:00,Presencial,Coca Cola,Bebidas,3,5,Billetera digital,No
+747,2026-11-15,19:24:00,19:45:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Billetera digital,No
+748,2026-11-15,19:49:00,20:22:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,2,30,Tarjeta,No
+748,2026-11-15,19:49:00,20:22:00,WhatsApp,Tiramisú,Postres,1,12,Tarjeta,No
+748,2026-11-15,19:49:00,20:22:00,WhatsApp,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+748,2026-11-15,19:49:00,20:22:00,WhatsApp,Pizza Margarita,Pizzas,1,25,Tarjeta,No
+749,2026-11-15,19:57:00,20:35:00,Teléfono,Coca Cola,Bebidas,2,5,Billetera digital,Sí
+749,2026-11-15,19:57:00,20:35:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Billetera digital,Sí
+749,2026-11-15,19:57:00,20:35:00,Teléfono,Pizza Pepperoni,Pizzas,1,28,Billetera digital,Sí
+749,2026-11-15,19:57:00,20:35:00,Teléfono,Limonada,Bebidas,3,8,Billetera digital,Sí
+750,2026-11-15,20:14:00,20:35:00,Presencial,Inca Kola,Bebidas,2,5,Billetera digital,No
+750,2026-11-15,20:14:00,20:35:00,Presencial,Tiramisú,Postres,3,12,Billetera digital,No
+750,2026-11-15,20:14:00,20:35:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+751,2026-11-15,20:20:00,20:40:00,Presencial,Lasagna de Carne,Pastas,1,34,Tarjeta,No
+751,2026-11-15,20:20:00,20:40:00,Presencial,Limonada,Bebidas,2,8,Tarjeta,No
+751,2026-11-15,20:20:00,20:40:00,Presencial,Bruschetta,Entradas,2,14,Tarjeta,No
+752,2026-11-15,20:32:00,20:57:00,Teléfono,Pizza Margarita,Pizzas,1,25,Efectivo,No
+752,2026-11-15,20:32:00,20:57:00,Teléfono,Inca Kola,Bebidas,1,5,Efectivo,No
+752,2026-11-15,20:32:00,20:57:00,Teléfono,Pizza Cuatro Quesos,Pizzas,1,32,Efectivo,No
+752,2026-11-15,20:32:00,20:57:00,Teléfono,Coca Cola,Bebidas,2,5,Efectivo,No
+753,2026-11-15,20:36:00,20:54:00,Presencial,Pan al Ajo,Entradas,2,8,Tarjeta,No
+753,2026-11-15,20:36:00,20:54:00,Presencial,Pizza Cuatro Quesos,Pizzas,1,32,Tarjeta,No
+753,2026-11-15,20:36:00,20:54:00,Presencial,Coca Cola,Bebidas,1,5,Tarjeta,No
+754,2026-11-15,20:37:00,20:52:00,Presencial,Panna Cotta,Postres,1,11,Efectivo,No
+754,2026-11-15,20:37:00,20:52:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Efectivo,No
+754,2026-11-15,20:37:00,20:52:00,Presencial,Pizza Pepperoni,Pizzas,2,28,Efectivo,No
+755,2026-11-15,20:43:00,21:04:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+756,2026-11-15,20:45:00,21:20:00,Teléfono,Coca Cola,Bebidas,1,5,Tarjeta,No
+756,2026-11-15,20:45:00,21:20:00,Teléfono,Bruschetta,Entradas,1,14,Tarjeta,No
+757,2026-11-15,20:52:00,21:11:00,Presencial,Fettuccine Alfredo,Pastas,1,32,Tarjeta,No
+757,2026-11-15,20:52:00,21:11:00,Presencial,Bruschetta,Entradas,1,14,Tarjeta,No
+758,2026-11-15,21:13:00,21:28:00,Presencial,Coca Cola,Bebidas,2,5,Efectivo,No
+758,2026-11-15,21:13:00,21:28:00,Presencial,Spaghetti a la Boloñesa,Pastas,1,30,Efectivo,No
+758,2026-11-15,21:13:00,21:28:00,Presencial,Bruschetta,Entradas,2,14,Efectivo,No
+759,2026-11-15,21:16:00,22:06:00,WhatsApp,Coca Cola,Bebidas,1,5,Billetera digital,No
+759,2026-11-15,21:16:00,22:06:00,WhatsApp,Spaghetti a la Boloñesa,Pastas,1,30,Billetera digital,No
+760,2026-11-15,21:17:00,21:50:00,WhatsApp,Panna Cotta,Postres,2,11,Efectivo,No
+761,2026-11-15,21:33:00,21:57:00,Presencial,Pan al Ajo,Entradas,1,8,Tarjeta,No
+761,2026-11-15,21:33:00,21:57:00,Presencial,Spaghetti a la Boloñesa,Pastas,3,30,Tarjeta,No

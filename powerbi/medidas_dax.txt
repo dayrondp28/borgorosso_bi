@@ -1,0 +1,22 @@
+Ventas Totales = SUM ( Fact_Pedidos[importe] )
+
+N° Pedidos = DISTINCTCOUNT ( Fact_Pedidos[id_pedido] )
+
+Ticket Promedio = DIVIDE ( [Ventas Totales], [N° Pedidos] )
+
+Unidades Vendidas = SUM ( Fact_Pedidos[cantidad] )
+
+% Ventas por Canal =
+DIVIDE ( [Ventas Totales], CALCULATE ( [Ventas Totales], ALL ( Dim_Canal ) ) )
+
+Tiempo Atención (min) =
+AVERAGEX (
+    VALUES ( Fact_Pedidos[id_pedido] ),
+    CALCULATE ( MAX ( Fact_Pedidos[tiempo_atencion_min] ) )
+)
+
+Tasa de Error =
+DIVIDE (
+    CALCULATE ( DISTINCTCOUNT ( Fact_Pedidos[id_pedido] ), Fact_Pedidos[con_error] = TRUE () ),
+    [N° Pedidos]
+)

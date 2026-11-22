@@ -1,0 +1,33 @@
+name: 'borgorosso_bi'
+version: '1.0.0'
+config-version: 2
+profile: 'borgorosso_bi'
+
+seed-paths: ["seeds"]
+model-paths: ["models"]
+test-paths: ["tests"]
+
+seeds:
+  borgorosso_bi:
+    +schema: bronze
+    +column_types:
+      id_pedido: string
+      fecha: string
+      hora_pedido: string
+      hora_entrega: string
+      canal: string
+      producto: string
+      categoria: string
+      cantidad: string
+      precio_unitario: string
+      metodo_pago: string
+      tiene_error: string
+
+models:
+  borgorosso_bi:
+    silver:
+      +schema: silver
+      +materialized: table
+    gold:
+      +schema: gold
+      +materialized: table

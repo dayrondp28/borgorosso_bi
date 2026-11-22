@@ -1,0 +1,69 @@
+version: 2
+
+models:
+  - name: slv_pedidos
+    description: "Pedidos limpios y tipados (una fila por producto de cada pedido)."
+    columns:
+      - name: id_pedido
+        tests: [not_null]
+      - name: fecha
+        tests: [not_null]
+      - name: ts_pedido
+        tests: [not_null]
+      - name: canal
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Presencial', 'Teléfono', 'WhatsApp']
+      - name: metodo_pago
+        tests:
+          - accepted_values:
+              values: ['Efectivo', 'Tarjeta', 'Billetera digital']
+      - name: categoria
+        tests:
+          - accepted_values:
+              values: ['Pizzas', 'Pastas', 'Entradas', 'Bebidas', 'Postres']
+      - name: cantidad
+        tests: [not_null]
+      - name: precio_unitario
+        tests: [not_null]
+
+  - name: Dim_Producto
+    columns:
+      - name: id_producto
+        tests: [unique, not_null]
+      - name: producto
+        tests: [unique, not_null]
+
+  - name: Dim_Canal
+    columns:
+      - name: id_canal
+        tests: [unique, not_null]
+
+  - name: Dim_MetodoPago
+    columns:
+      - name: id_metodo_pago
+        tests: [unique, not_null]
+
+  - name: Dim_Fecha
+    columns:
+      - name: Date
+        tests: [unique, not_null]
+
+  - name: Fact_Pedidos
+    description: "Hechos de ventas. Grano: una fila por producto dentro de un pedido."
+    columns:
+      - name: id_pedido
+        tests: [not_null]
+      - name: id_producto
+        tests:
+          - not_null
+          - relationships: {to: ref('Dim_Producto'), field: id_producto}
+      - name: id_canal
+        tests:
+          - not_null
+          - relationships: {to: ref('Dim_Canal'), field: id_canal}
+      - name: id_metodo_pago
+        tests:
+          - not_null
+          - relationships: {to: ref('Dim_MetodoPago'), field: id_metodo_pago}
